@@ -1,0 +1,19 @@
+{
+"$type":"EndlessAdv.AuthDatas.IsometricTileDefinitionData, Assembly-CSharp",
+"DefaultTileVariations":null,
+"TileVariationsForState":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.AuthDatas.TileVariationsData, Assembly-CSharp]], mscorlib","$values":[]},
+"InitialStateID":"00000000----State-00000000-0000-0000-0000-000000000000",
+"WalkableInExploreMode":false,
+"LineOfSightBlockDefaultSettings":{"$type":"System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[LineOfSightBlockSettings, Assembly-CSharp]], mscorlib"},
+"LineOfSightBlockVariationSettings":{"$type":"System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[LineOfSightBlockSettings, Assembly-CSharp]], mscorlib"},
+"Categories":{"$type":"System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib","$values":[]},
+"ID":"----Tile-6fe4704f-0bea-4690-8cc7-a265c50d89bc",
+"componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":"Custom Tile","ID":"a56dcadc-9ab9-481b-af60-7eee36f928c5","isActive":false},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"6d9897de-2d51-4ad8-a6f2-efa9d10eef45","isActive":false},
+{"$type":"EATilesStatesComponentData, Assembly-CSharp","TileVariationsForStateDictionary":{"$type":"System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[EndlessAdv.AuthDatas.TileVariationsData, Assembly-CSharp]], mscorlib","00000000----State-00000000-0000-0000-0000-000000000000":{"$type":"EndlessAdv.AuthDatas.TileVariationsData, Assembly-CSharp","ImageFilePaths":{"$type":"System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib","$values":["0671f408-6712-42a6-b888-bb2504d4a1ae"]},"Pivots":{"$type":"System.Collections.Generic.List`1[[SerializableVector2, Assembly-CSharp]], mscorlib","$values":[{"$type":"SerializableVector2, Assembly-CSharp","x":0.5,"y":0.63}]},"NormalMapFilePaths":{"$type":"System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib","$values":[]},"StateID":"00000000----State-00000000-0000-0000-0000-000000000000","OnCharacterEnterLogic":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.AuthDatas.ActionData, Assembly-CSharp]], mscorlib","$values":[]},"OnCharacterExitLogic":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.AuthDatas.ActionData, Assembly-CSharp]], mscorlib","$values":[]}}},"States":{"$type":"System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib","$values":["00000000----State-00000000-0000-0000-0000-000000000000"]},"ID":"a7afc1b4-288d-424d-acd9-4f577ddc5df6","isActive":false}
+]},
+"ToolName":"Custom Tile",
+"AuthorName":"",
+"dataVersion":16
+}

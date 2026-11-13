@@ -1,0 +1,14 @@
+{
+"$type":"NewContentManager+ManifestEntry, Assembly-CSharp",
+"ID":"0b479ea1-8585-4054-906c-ec3715ff35b1",
+"Name":"PackedFiles_Adventure_Assets_Tiles_.zip",
+"PlayfabID":null,
+"LocalPath":"Adventure Assets/Tiles/",
+"LastChangedTime":"2026-11-10T22:30:24.2734498Z",
+"Type":"PackedItems",
+"URL":null,
+"FileSize":0,
+"SubItems":{"$type":"System.Collections.Generic.List`1[[NewContentManager+SubManifestEntry, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"d8085987-5459-4d5f-b666-c5b52c160d29","FileName":"SM_Bld_City_Floor_Platform_02.png","FileSize":173852,"Type":4,"DateTime":"2026-11-10T22:30:20.9708549Z"}
+]}
+}

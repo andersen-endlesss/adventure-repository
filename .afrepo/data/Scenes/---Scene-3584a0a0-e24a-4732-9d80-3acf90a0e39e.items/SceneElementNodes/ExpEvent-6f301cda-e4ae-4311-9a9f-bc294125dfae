@@ -1,0 +1,23 @@
+{
+"$type":"EndlessAdv.AuthDatas.ExploreSceneEventData, Assembly-CSharp",
+"ParentSceneID":"---Scene-3584a0a0-e24a-4732-9d80-3acf90a0e39e",
+"ParentGroupID":"---Scene-3584a0a0-e24a-4732-9d80-3acf90a0e39e",
+"NodePlacementParents":{"$type":"System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib","$values":["---Scene-3584a0a0-e24a-4732-9d80-3acf90a0e39e"]},
+"NodePlacements":{"$type":"System.Collections.Generic.List`1[[SerializableVector2, Assembly-CSharp]], mscorlib","$values":[{"$type":"SerializableVector2, Assembly-CSharp","x":0.0,"y":-90.0}]},
+"TextLogic":{"$type":"System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[EndlessAdv.AuthDatas.TextLogicData, Assembly-CSharp]], mscorlib"},
+"ID":"ExpEvent-6f301cda-e4ae-4311-9a9f-bc294125dfae",
+"componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":"Explore Event","ID":"4cc4edc0-d158-4111-ac7a-145fbfec9382","isActive":false},
+{"$type":"EAOBJStartLogicComponentData, Assembly-CSharp","LogicList":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.AuthDatas.ActionData, Assembly-CSharp]], mscorlib","$values":[]},"ID":"e7f48078-a715-4673-b14e-908f552824d6","isActive":false},
+{"$type":"EAOBJPersistentInterfaceAsignerComponentData, Assembly-CSharp","persistentUIID":"PersisUI-973188eb-ff82-42c2-8407-4b067bc81cc1","ID":"1d682e0f-cb79-47f6-8ce0-2a11480638bc","isActive":false},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"eb32c382-acb8-4e57-931d-87229b38f90f","isActive":false},
+{"$type":"EAOBJInitialTagsComponentData, Assembly-CSharp","initialTagsDatas":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.AuthDatas.StartingTagData, Assembly-CSharp]], mscorlib","$values":[]},"ID":"643d4763-9750-48b9-b2fe-51507a6a3844","isActive":false},
+{"$type":"EAOBJWeightedSettingComponentData, Assembly-CSharp","data":{"$type":"EndlessAdv.AuthDatas.WeightedNavigationData, Assembly-CSharp","Enabled":false,"Label":"","LabelID":"","Category":"","Prerequisites":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.ConditionStatement, Assembly-CSharp]], mscorlib","$values":[]},"Logic":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.AuthDatas.ActionData, Assembly-CSharp]], mscorlib","$values":[]},"DebuggingEnabled":false,"OnlyTriggerOnce":false,"ID":"-2aad1e4e-7e3a-453d-a7c9-4584dca47eb7","componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":null,"ID":"8b7ba3a9-c548-42bf-a4a9-5692980595fc","isActive":false},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"7188b002-980c-45ab-904a-3a04c51b7b5e","isActive":false}
+]},"ToolName":"","AuthorName":"","dataVersion":16},"ID":"92e9709f-b67d-4b8b-8afb-73dbcfdf7513","isActive":false}
+]},
+"ToolName":"Explore Event",
+"AuthorName":"",
+"dataVersion":16
+}

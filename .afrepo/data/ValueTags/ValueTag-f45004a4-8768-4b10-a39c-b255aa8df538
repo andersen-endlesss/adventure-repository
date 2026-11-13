@@ -1,0 +1,14 @@
+{
+"$type":"EndlessAdv.AuthDatas.ValueTagData, Assembly-CSharp",
+"ID":"ValueTag-f45004a4-8768-4b10-a39c-b255aa8df538",
+"componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":"Antonio Trust","ID":"188c437e-6ddb-4018-b5ee-10fa035af09a","isActive":false},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"1ef41744-9724-4c5b-8981-8da4d140ff17","isActive":false},
+{"$type":"EAObjTagCategoriesOwnerComponentData, Assembly-CSharp","categoriesIDs":{"$type":"System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib","$values":["--TagCat-6cd4bee4-93fd-46e9-a33e-c0703f6b4b99"]},"ID":"40b82764-6f6c-4f59-9041-c4dc3a8fff33","isActive":false},
+{"$type":"EAObjValueTagTypeComponentData, Assembly-CSharp","tagType":0,"ID":"e95479ce-856c-47eb-b44c-2f19995f7544","isActive":false},
+{"$type":"EAOBJDefaultValueTagComponentData, Assembly-CSharp","DefaultValue":null,"ID":"57096cc3-2df9-4f7e-8ec9-b60a40fa40e1","isActive":false}
+]},
+"ToolName":"Antonio Trust",
+"AuthorName":"",
+"dataVersion":16
+}

@@ -1,0 +1,14 @@
+{
+"$type":"NewContentManager+ManifestEntry, Assembly-CSharp",
+"ID":"41b240d9-402c-4cc7-b988-53f57e381e41",
+"Name":"PackedFiles_Adventure_Assets_FBX_.zip",
+"PlayfabID":null,
+"LocalPath":"Adventure Assets/FBX/",
+"LastChangedTime":"2026-11-09T19:14:13.1673669Z",
+"Type":"PackedItems",
+"URL":null,
+"FileSize":0,
+"SubItems":{"$type":"System.Collections.Generic.List`1[[NewContentManager+SubManifestEntry, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"15bdbb9f-91dc-4198-b22b-be285d8fa958","FileName":"Father_Antonio_Default.fbx","FileSize":10760140,"Type":7,"DateTime":"2026-10-20T21:05:36.8632171Z"}
+]}
+}

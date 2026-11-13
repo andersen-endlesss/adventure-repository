@@ -1,0 +1,19 @@
+{
+"$type":"EndlessAdv.AuthDatas.IsometricTileDefinitionData, Assembly-CSharp",
+"DefaultTileVariations":null,
+"TileVariationsForState":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.AuthDatas.TileVariationsData, Assembly-CSharp]], mscorlib","$values":[]},
+"InitialStateID":"00000000----State-00000000-0000-0000-0000-000000000000",
+"WalkableInExploreMode":false,
+"LineOfSightBlockDefaultSettings":{"$type":"System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[LineOfSightBlockSettings, Assembly-CSharp]], mscorlib"},
+"LineOfSightBlockVariationSettings":{"$type":"System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[LineOfSightBlockSettings, Assembly-CSharp]], mscorlib"},
+"Categories":{"$type":"System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib","$values":[]},
+"ID":"----Tile-f1a55133-357b-448e-93c3-e5857894ce3f",
+"componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":"Animated Tile","ID":"5ed83ecf-8470-4640-a1ae-6683294cf1a1","isActive":false},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"b0b5777d-946f-4cf1-9f3a-66c51dc25fb9","isActive":false},
+{"$type":"EATilesStatesComponentData, Assembly-CSharp","TileVariationsForStateDictionary":{"$type":"System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[EndlessAdv.AuthDatas.TileVariationsData, Assembly-CSharp]], mscorlib","00000000----State-00000000-0000-0000-0000-000000000000":{"$type":"EndlessAdv.AuthDatas.TileVariationsData, Assembly-CSharp","ImageFilePaths":{"$type":"System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib","$values":["5f4eb54e-bc26-4517-8a9c-043d88da9841"]},"Pivots":{"$type":"System.Collections.Generic.List`1[[SerializableVector2, Assembly-CSharp]], mscorlib","$values":[{"$type":"SerializableVector2, Assembly-CSharp","x":0.5,"y":0.64}]},"NormalMapFilePaths":{"$type":"System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib","$values":[]},"StateID":"00000000----State-00000000-0000-0000-0000-000000000000","OnCharacterEnterLogic":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.AuthDatas.ActionData, Assembly-CSharp]], mscorlib","$values":[]},"OnCharacterExitLogic":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.AuthDatas.ActionData, Assembly-CSharp]], mscorlib","$values":[]}}},"States":{"$type":"System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib","$values":["00000000----State-00000000-0000-0000-0000-000000000000"]},"ID":"4c69e1f2-8e87-4704-9a3c-c273d98fce4e","isActive":false}
+]},
+"ToolName":"Animated Tile",
+"AuthorName":"",
+"dataVersion":16
+}

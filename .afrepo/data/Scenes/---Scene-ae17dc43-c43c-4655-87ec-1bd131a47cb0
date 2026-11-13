@@ -1,0 +1,37 @@
+{
+"$type":"EndlessAdv.AuthDatas.SceneData, Assembly-CSharp",
+"Logic":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.AuthDatas.ActionData, Assembly-CSharp]], mscorlib","$values":[{"$type":"EndlessAdv.AuthDatas.ActionData, Assembly-CSharp","Trigger":0,"Conditions":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.ConditionStatement, Assembly-CSharp]], mscorlib","$values":[]},"Outcomes":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.OutcomeStatement, Assembly-CSharp]], mscorlib","$values":[{"$type":"EndlessAdv.OutcomeStatement, Assembly-CSharp","Operation":1,"logicStatementDataVersion":4,"TargetRow":{"$type":"EndlessAdv.LogicRow, Assembly-CSharp","LogicItems":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.LogicItem, Assembly-CSharp]], mscorlib","$values":[{"$type":"EndlessAdv.TargetLogicItem, Assembly-CSharp","Target":2861}]}},"ParameterRows":{"$type":"EndlessAdv.LogicRow[], Assembly-CSharp","$values":[{"$type":"EndlessAdv.LogicRow, Assembly-CSharp","LogicItems":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.LogicItem, Assembly-CSharp]], mscorlib","$values":[{"$type":"EndlessAdv.TargetLogicItem, Assembly-CSharp","Target":125},{"$type":"EndlessAdv.PropertyLogicItem, Assembly-CSharp","Property":4,"ID":"ConEvent-9c44ccc8-40a7-4821-979c-b6b7ff4dda99"}]}}]},"isEnabled":true,"OnLabelChanged":null}]}}]},
+"SceneElementNodes":{"$type":"EndlessAdv.AuthDatas.AuthoringDataList`1[[EndlessAdv.AuthDatas.SceneEventData, Assembly-CSharp]], Assembly-CSharp","DataVersion":1,"dataDictionary":{
+"$type":"System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[EndlessAdv.AuthDatas.SceneEventData, Assembly-CSharp]], mscorlib",
+"ConEvent-9c44ccc8-40a7-4821-979c-b6b7ff4dda99":"@data/Scenes/---Scene-ae17dc43-c43c-4655-87ec-1bd131a47cb0.items/SceneElementNodes/ConEvent-9c44ccc8-40a7-4821-979c-b6b7ff4dda99"
+}},
+"LogicBlocks":{"$type":"EndlessAdv.AuthDatas.AuthoringDataList`1[[EndlessAdv.AuthDatas.LogicBlockData, Assembly-CSharp]], Assembly-CSharp","DataVersion":1,"dataDictionary":{
+"$type":"System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[EndlessAdv.AuthDatas.LogicBlockData, Assembly-CSharp]], mscorlib"
+}},
+"persistentInterfaces":{"$type":"EndlessAdv.AuthDatas.AuthoringDataList`1[[EndlessAdv.AuthDatas.EAPersistentInterfaceData, Assembly-CSharp]], Assembly-CSharp","DataVersion":1,"dataDictionary":{
+"$type":"System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[EndlessAdv.AuthDatas.EAPersistentInterfaceData, Assembly-CSharp]], mscorlib"
+}},
+"DefaultTransition":1,
+"TriggersV2":{"$type":"System.Collections.Generic.Dictionary`2[[EndlessAdv.AuthDatas.TriggerEvent, Assembly-CSharp],[System.Collections.Generic.List`1[[EndlessAdv.AuthDatas.TriggerDataV2, Assembly-CSharp]], mscorlib]], mscorlib"},
+"Triggers":{"$type":"System.Collections.Generic.Dictionary`2[[EndlessAdv.AuthDatas.TriggerEvent, Assembly-CSharp],[System.Collections.Generic.List`1[[EndlessAdv.AuthDatas.TriggerData, Assembly-CSharp]], mscorlib]], mscorlib"},
+"isFirstTimeLoaded":true,
+"ParentGroupID":"--Folder-6bc20743-f683-4c81-9f5f-cd61b83afac3",
+"NodePlacementParents":{"$type":"System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib","$values":[]},
+"NodePlacements":{"$type":"System.Collections.Generic.List`1[[SerializableVector2, Assembly-CSharp]], mscorlib","$values":[]},
+"TextLogic":{"$type":"System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[EndlessAdv.AuthDatas.TextLogicData, Assembly-CSharp]], mscorlib"},
+"ID":"---Scene-ae17dc43-c43c-4655-87ec-1bd131a47cb0",
+"componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":"Harbour","ID":"8ec1fba3-a461-4ffa-a952-ef0a0f90230b","isActive":false},
+{"$type":"EAOBJPersistentInterfaceAsignerComponentData, Assembly-CSharp","persistentUIID":null,"ID":"92a0af33-542a-42d7-af43-644e9088052c","isActive":false},
+{"$type":"EAOBJBackgroundComponentData, Assembly-CSharp","imgID":null,"color":{"$type":"SerializableColor, Assembly-CSharp","R":1.0,"G":1.0,"B":1.0,"A":1.0},"ScalingDirection":0,"ID":"d7a409fc-a770-44d4-bcba-9cc906ef0b54","isActive":false},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"fb4084e7-9d2f-4a37-89e2-eae4e767f9e9","isActive":false},
+{"$type":"EAOBJInitialTagsComponentData, Assembly-CSharp","initialTagsDatas":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.AuthDatas.StartingTagData, Assembly-CSharp]], mscorlib","$values":[]},"ID":"51df3a95-dd90-4083-8854-89c120b9ebee","isActive":false},
+{"$type":"EAOBJWeightedSettingComponentData, Assembly-CSharp","data":{"$type":"EndlessAdv.AuthDatas.WeightedNavigationData, Assembly-CSharp","Enabled":false,"Label":"","LabelID":"","Category":"","Prerequisites":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.ConditionStatement, Assembly-CSharp]], mscorlib","$values":[]},"Logic":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.AuthDatas.ActionData, Assembly-CSharp]], mscorlib","$values":[]},"DebuggingEnabled":false,"OnlyTriggerOnce":false,"ID":"-25dce1c1-b4b7-4123-a68e-0af33f057f05","componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":null,"ID":"fd012979-3f36-49be-bca8-84c2f4412d80","isActive":false},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"4ecf29eb-b018-459b-b765-644e2dc42726","isActive":false}
+]},"ToolName":"","AuthorName":"","dataVersion":16},"ID":"b512d8cd-bd68-4dbc-86ae-08a459f4bcfd","isActive":false}
+]},
+"ToolName":"Harbour",
+"AuthorName":"",
+"dataVersion":16
+}

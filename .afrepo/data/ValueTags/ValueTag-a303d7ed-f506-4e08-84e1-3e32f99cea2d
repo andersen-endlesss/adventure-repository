@@ -1,0 +1,14 @@
+{
+"$type":"EndlessAdv.AuthDatas.ValueTagData, Assembly-CSharp",
+"ID":"ValueTag-a303d7ed-f506-4e08-84e1-3e32f99cea2d",
+"componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":"Antonio Will Testify","ID":"5daa7011-fb4e-4a0a-b812-b4f1b62a0287","isActive":false},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"88b8a837-2318-40ab-98fa-b236756df077","isActive":false},
+{"$type":"EAObjTagCategoriesOwnerComponentData, Assembly-CSharp","categoriesIDs":{"$type":"System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib","$values":["--TagCat-6cd4bee4-93fd-46e9-a33e-c0703f6b4b99"]},"ID":"912ed6b6-e9fe-4393-a019-07d974f6b748","isActive":false},
+{"$type":"EAObjValueTagTypeComponentData, Assembly-CSharp","tagType":0,"ID":"dc9a0464-7ee6-457a-96b1-f1e51d11c0b2","isActive":false},
+{"$type":"EAOBJDefaultValueTagComponentData, Assembly-CSharp","DefaultValue":null,"ID":"3a83a108-6036-41d6-b06e-533ee038b231","isActive":false}
+]},
+"ToolName":"Antonio Will Testify",
+"AuthorName":"",
+"dataVersion":16
+}

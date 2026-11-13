@@ -1,0 +1,19 @@
+{
+"$type":"NewContentManager+ManifestEntry, Assembly-CSharp",
+"ID":"Default_AdventureAssetsManifest",
+"Name":"PackedFiles_Adventure_Assets_.zip",
+"PlayfabID":null,
+"LocalPath":"Adventure Assets/",
+"LastChangedTime":"2026-11-09T20:40:11.8878889Z",
+"Type":"PackedItems",
+"URL":null,
+"FileSize":0,
+"SubItems":{"$type":"System.Collections.Generic.List`1[[NewContentManager+SubManifestEntry, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"0671f408-6712-42a6-b888-bb2504d4a1ae","FileName":"5.png","FileSize":1169,"Type":4,"DateTime":"2026-10-28T14:10:25.9071769Z"},
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"5d291baf-d518-4109-ab28-7c45926c813e","FileName":"electro_sword_Albedo.tga","FileSize":50331692,"Type":4,"DateTime":"2026-11-09T20:39:47.393661Z"},
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"da72fc2f-b306-44c4-9f10-c115d6dea406","FileName":"electro_sword_AO.tga","FileSize":50331692,"Type":4,"DateTime":"2026-11-09T20:39:47.4492969Z"},
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"8e5dac89-d02e-49d4-91f3-f1adc1952c2c","FileName":"electro_sword_Emissive.tga","FileSize":50331692,"Type":4,"DateTime":"2026-11-09T20:39:47.495867Z"},
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"583edb3c-fd7b-40b3-90a9-8f94acee64d5","FileName":"electro_sword_Normal.tga","FileSize":50331692,"Type":4,"DateTime":"2026-11-09T20:39:47.5437369Z"},
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"5b05bf6e-2ca8-4040-8b16-4863236e2351","FileName":"electro_sword_SpecularSmoothness.tga","FileSize":67108908,"Type":4,"DateTime":"2026-11-09T20:39:47.5906159Z"}
+]}
+}

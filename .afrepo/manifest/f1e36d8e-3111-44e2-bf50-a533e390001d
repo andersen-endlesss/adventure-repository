@@ -1,0 +1,12 @@
+{
+"$type":"NewContentManager+ManifestEntry, Assembly-CSharp",
+"ID":"f1e36d8e-3111-44e2-bf50-a533e390001d",
+"Name":"PackedFiles_Adventure_Assets_FBX_Characters_.zip",
+"PlayfabID":null,
+"LocalPath":"Adventure Assets/FBX/Characters/",
+"LastChangedTime":"2026-11-09T19:15:13.26669Z",
+"Type":"PackedItems",
+"URL":null,
+"FileSize":0,
+"SubItems":{"$type":"System.Collections.Generic.List`1[[NewContentManager+SubManifestEntry, Assembly-CSharp]], mscorlib","$values":[]}
+}

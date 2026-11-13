@@ -1,0 +1,137 @@
+{
+"$type":"EndlessAdv.AuthDatas.LocationData, Assembly-CSharp",
+"DefinitionAndTiles":{"$type":"System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.Collections.Generic.List`1[[EndlessAdv.IsometricSystem.IsometricEnvironmentTileData, Assembly-CSharp]], mscorlib]], mscorlib","----Tile-6fe4704f-0bea-4690-8cc7-a265c50d89bc":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.IsometricSystem.IsometricEnvironmentTileData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EndlessAdv.IsometricSystem.IsometricEnvironmentTileData, Assembly-CSharp","TileDefinitionID":"----Tile-6fe4704f-0bea-4690-8cc7-a265c50d89bc","VariationIndex":0,"GridPositionX":-4,"GridPositionY":-4,"GridPositionZ":0,"AdditionalGridPositionX":0.0,"AdditionalGridPositionY":0.0,"AdditionalGridPositionZ":0.0,"FlipX":false,"ID":"-1eab3c00-881f-4665-a496-f9df857c1a74","componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":null,"ID":"de7b080a-9404-457e-998c-37e3fa0d5800","isActive":false},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"8e430aaf-75bc-4820-9467-45f9d7cee8b1","isActive":false}
+]},"ToolName":"","AuthorName":"","dataVersion":16},
+{"$type":"EndlessAdv.IsometricSystem.IsometricEnvironmentTileData, Assembly-CSharp","TileDefinitionID":"----Tile-6fe4704f-0bea-4690-8cc7-a265c50d89bc","VariationIndex":0,"GridPositionX":-3,"GridPositionY":-4,"GridPositionZ":0,"AdditionalGridPositionX":0.0,"AdditionalGridPositionY":0.0,"AdditionalGridPositionZ":0.0,"FlipX":false,"ID":"-fd5967ba-3002-4b11-9778-98a7789a5a3d","componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":null,"ID":"2dfeff6d-f3ef-4c4f-90e3-18c768b7a9e2","isActive":false},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"8cd21b05-50a8-43cb-a035-8cc6eb1eb84a","isActive":false}
+]},"ToolName":"","AuthorName":"","dataVersion":16},
+{"$type":"EndlessAdv.IsometricSystem.IsometricEnvironmentTileData, Assembly-CSharp","TileDefinitionID":"----Tile-6fe4704f-0bea-4690-8cc7-a265c50d89bc","VariationIndex":0,"GridPositionX":-2,"GridPositionY":-4,"GridPositionZ":0,"AdditionalGridPositionX":0.0,"AdditionalGridPositionY":0.0,"AdditionalGridPositionZ":0.0,"FlipX":false,"ID":"-af2a36d1-08a4-4a8d-bde7-52962af1cdc2","componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":null,"ID":"9bf3e18d-faf3-4095-bc09-654f7f8c16ff","isActive":false},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"1105a09c-6ec9-4e89-a284-36553492a4cf","isActive":false}
+]},"ToolName":"","AuthorName":"","dataVersion":16},
+{"$type":"EndlessAdv.IsometricSystem.IsometricEnvironmentTileData, Assembly-CSharp","TileDefinitionID":"----Tile-6fe4704f-0bea-4690-8cc7-a265c50d89bc","VariationIndex":0,"GridPositionX":-1,"GridPositionY":-4,"GridPositionZ":0,"AdditionalGridPositionX":0.0,"AdditionalGridPositionY":0.0,"AdditionalGridPositionZ":0.0,"FlipX":false,"ID":"-833e7aa2-75dd-4ea9-9ea1-15e0e6e87a39","componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":null,"ID":"59560f9e-71a9-4cc3-8833-e3b46e8291f8","isActive":false},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"1244012e-2f54-4bb9-8aca-11ba2fb72c4a","isActive":false}
+]},"ToolName":"","AuthorName":"","dataVersion":16},
+{"$type":"EndlessAdv.IsometricSystem.IsometricEnvironmentTileData, Assembly-CSharp","TileDefinitionID":"----Tile-6fe4704f-0bea-4690-8cc7-a265c50d89bc","VariationIndex":0,"GridPositionX":0,"GridPositionY":-4,"GridPositionZ":0,"AdditionalGridPositionX":0.0,"AdditionalGridPositionY":0.0,"AdditionalGridPositionZ":0.0,"FlipX":false,"ID":"-595d7d5f-1067-4a47-ac05-d09224ce796a","componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":null,"ID":"c8354e86-78e7-4a1f-98d0-2ef58c97c00d","isActive":false},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"cfc0c96f-4f3e-4175-b2eb-5319d1948a2c","isActive":false}
+]},"ToolName":"","AuthorName":"","dataVersion":16},
+{"$type":"EndlessAdv.IsometricSystem.IsometricEnvironmentTileData, Assembly-CSharp","TileDefinitionID":"----Tile-6fe4704f-0bea-4690-8cc7-a265c50d89bc","VariationIndex":0,"GridPositionX":0,"GridPositionY":-3,"GridPositionZ":0,"AdditionalGridPositionX":0.0,"AdditionalGridPositionY":0.0,"AdditionalGridPositionZ":0.0,"FlipX":false,"ID":"-5e9257cb-338e-4766-b408-d522cdad12ea","componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":null,"ID":"092ae55e-ca41-4ff1-a1c0-bc2aa980a813","isActive":false},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"f7b83218-6275-4c41-ad0a-3a10c6b0285e","isActive":false}
+]},"ToolName":"","AuthorName":"","dataVersion":16},
+{"$type":"EndlessAdv.IsometricSystem.IsometricEnvironmentTileData, Assembly-CSharp","TileDefinitionID":"----Tile-6fe4704f-0bea-4690-8cc7-a265c50d89bc","VariationIndex":0,"GridPositionX":-1,"GridPositionY":-3,"GridPositionZ":0,"AdditionalGridPositionX":0.0,"AdditionalGridPositionY":0.0,"AdditionalGridPositionZ":0.0,"FlipX":false,"ID":"-79ed1514-230a-4b39-b6e4-2e70a31cd11e","componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":null,"ID":"f7ea5722-2300-49ad-9c8d-66e4bc87972c","isActive":false},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"ca8b00c1-d201-4ed2-8479-0b0b2927bb45","isActive":false}
+]},"ToolName":"","AuthorName":"","dataVersion":16},
+{"$type":"EndlessAdv.IsometricSystem.IsometricEnvironmentTileData, Assembly-CSharp","TileDefinitionID":"----Tile-6fe4704f-0bea-4690-8cc7-a265c50d89bc","VariationIndex":0,"GridPositionX":-2,"GridPositionY":-3,"GridPositionZ":0,"AdditionalGridPositionX":0.0,"AdditionalGridPositionY":0.0,"AdditionalGridPositionZ":0.0,"FlipX":false,"ID":"-279e51f8-59da-4f07-ab6f-0219833a1fd9","componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":null,"ID":"29f91ffd-29e2-4798-8fe0-378302cc801c","isActive":false},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"f70077e9-7e21-4b00-b1af-cdb58c2fdd75","isActive":false}
+]},"ToolName":"","AuthorName":"","dataVersion":16},
+{"$type":"EndlessAdv.IsometricSystem.IsometricEnvironmentTileData, Assembly-CSharp","TileDefinitionID":"----Tile-6fe4704f-0bea-4690-8cc7-a265c50d89bc","VariationIndex":0,"GridPositionX":-3,"GridPositionY":-3,"GridPositionZ":0,"AdditionalGridPositionX":0.0,"AdditionalGridPositionY":0.0,"AdditionalGridPositionZ":0.0,"FlipX":false,"ID":"-0e9d794b-afba-4969-8cc5-fd7a53c83fd3","componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":null,"ID":"de0a51d7-af56-4da4-a90b-8f5306ae5c2b","isActive":false},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"505af821-014c-4dac-b535-5624f1e6eb70","isActive":false}
+]},"ToolName":"","AuthorName":"","dataVersion":16},
+{"$type":"EndlessAdv.IsometricSystem.IsometricEnvironmentTileData, Assembly-CSharp","TileDefinitionID":"----Tile-6fe4704f-0bea-4690-8cc7-a265c50d89bc","VariationIndex":0,"GridPositionX":-4,"GridPositionY":-3,"GridPositionZ":0,"AdditionalGridPositionX":0.0,"AdditionalGridPositionY":0.0,"AdditionalGridPositionZ":0.0,"FlipX":false,"ID":"-50932d3b-4fb0-422e-8097-322968a15be2","componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":null,"ID":"a2798d98-fe31-411e-b8d5-b6cc52ce8a3e","isActive":false},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"750accda-1a7a-474c-a67c-51878a972f43","isActive":false}
+]},"ToolName":"","AuthorName":"","dataVersion":16},
+{"$type":"EndlessAdv.IsometricSystem.IsometricEnvironmentTileData, Assembly-CSharp","TileDefinitionID":"----Tile-6fe4704f-0bea-4690-8cc7-a265c50d89bc","VariationIndex":0,"GridPositionX":-4,"GridPositionY":-2,"GridPositionZ":0,"AdditionalGridPositionX":0.0,"AdditionalGridPositionY":0.0,"AdditionalGridPositionZ":0.0,"FlipX":false,"ID":"-732fe6ef-b065-43ea-841c-d2e71fa0c697","componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":null,"ID":"4ef98dd6-1ada-48ac-80f9-df0c1cdc25a6","isActive":false},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"bd4ce801-5c2e-4d07-99fe-77c58b7ad04f","isActive":false}
+]},"ToolName":"","AuthorName":"","dataVersion":16},
+{"$type":"EndlessAdv.IsometricSystem.IsometricEnvironmentTileData, Assembly-CSharp","TileDefinitionID":"----Tile-6fe4704f-0bea-4690-8cc7-a265c50d89bc","VariationIndex":0,"GridPositionX":-3,"GridPositionY":-2,"GridPositionZ":0,"AdditionalGridPositionX":0.0,"AdditionalGridPositionY":0.0,"AdditionalGridPositionZ":0.0,"FlipX":false,"ID":"-81a41f7a-af9a-477b-a46c-c5b600735da5","componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":null,"ID":"016e8828-afd7-4520-8c82-ad9a9801640e","isActive":false},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"93ef68e3-f857-4156-bdf7-1e1f74791721","isActive":false}
+]},"ToolName":"","AuthorName":"","dataVersion":16},
+{"$type":"EndlessAdv.IsometricSystem.IsometricEnvironmentTileData, Assembly-CSharp","TileDefinitionID":"----Tile-6fe4704f-0bea-4690-8cc7-a265c50d89bc","VariationIndex":0,"GridPositionX":-2,"GridPositionY":-2,"GridPositionZ":0,"AdditionalGridPositionX":0.0,"AdditionalGridPositionY":0.0,"AdditionalGridPositionZ":0.0,"FlipX":false,"ID":"-a50582ce-bf3c-4300-a7d7-0e00fe488cf4","componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":null,"ID":"be0fe4b9-21e6-4e83-bc2a-e3a8287d76ea","isActive":false},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"e5fc01db-6b28-42dd-939e-5ed1b2d9f4ec","isActive":false}
+]},"ToolName":"","AuthorName":"","dataVersion":16},
+{"$type":"EndlessAdv.IsometricSystem.IsometricEnvironmentTileData, Assembly-CSharp","TileDefinitionID":"----Tile-6fe4704f-0bea-4690-8cc7-a265c50d89bc","VariationIndex":0,"GridPositionX":-1,"GridPositionY":-2,"GridPositionZ":0,"AdditionalGridPositionX":0.0,"AdditionalGridPositionY":0.0,"AdditionalGridPositionZ":0.0,"FlipX":false,"ID":"-7171667d-6d2f-4c49-aa5f-aedda122fa3a","componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":null,"ID":"b468dd96-5816-4b68-8a4d-a2a734951a32","isActive":false},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"171d227d-f88a-428f-9ff9-e84b3f031fe7","isActive":false}
+]},"ToolName":"","AuthorName":"","dataVersion":16},
+{"$type":"EndlessAdv.IsometricSystem.IsometricEnvironmentTileData, Assembly-CSharp","TileDefinitionID":"----Tile-6fe4704f-0bea-4690-8cc7-a265c50d89bc","VariationIndex":0,"GridPositionX":0,"GridPositionY":-2,"GridPositionZ":0,"AdditionalGridPositionX":0.0,"AdditionalGridPositionY":0.0,"AdditionalGridPositionZ":0.0,"FlipX":false,"ID":"-a3098486-e7c6-4a51-93f5-cbb7173ac04a","componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":null,"ID":"43f5dcfe-1d58-4594-b0cb-9502694665ec","isActive":false},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"de3a84a1-0ab4-4850-8ec7-1ce8a441b3cc","isActive":false}
+]},"ToolName":"","AuthorName":"","dataVersion":16},
+{"$type":"EndlessAdv.IsometricSystem.IsometricEnvironmentTileData, Assembly-CSharp","TileDefinitionID":"----Tile-6fe4704f-0bea-4690-8cc7-a265c50d89bc","VariationIndex":0,"GridPositionX":0,"GridPositionY":-1,"GridPositionZ":0,"AdditionalGridPositionX":0.0,"AdditionalGridPositionY":0.0,"AdditionalGridPositionZ":0.0,"FlipX":false,"ID":"-c2c90278-821b-47bb-89f8-d0198f130785","componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":null,"ID":"d27a87e1-c5a4-4d48-a7d0-c91bab84b6a9","isActive":false},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"be69545f-57c4-4c52-8c24-e6da0a0c385e","isActive":false}
+]},"ToolName":"","AuthorName":"","dataVersion":16},
+{"$type":"EndlessAdv.IsometricSystem.IsometricEnvironmentTileData, Assembly-CSharp","TileDefinitionID":"----Tile-6fe4704f-0bea-4690-8cc7-a265c50d89bc","VariationIndex":0,"GridPositionX":-1,"GridPositionY":-1,"GridPositionZ":0,"AdditionalGridPositionX":0.0,"AdditionalGridPositionY":0.0,"AdditionalGridPositionZ":0.0,"FlipX":false,"ID":"-8952fb01-a843-4af4-88fc-94581b54904c","componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":null,"ID":"bd6c76f4-9350-44af-ad12-4996a11a8e9f","isActive":false},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"a7cae74d-4e4b-46c1-9804-217ae19112f2","isActive":false}
+]},"ToolName":"","AuthorName":"","dataVersion":16},
+{"$type":"EndlessAdv.IsometricSystem.IsometricEnvironmentTileData, Assembly-CSharp","TileDefinitionID":"----Tile-6fe4704f-0bea-4690-8cc7-a265c50d89bc","VariationIndex":0,"GridPositionX":-2,"GridPositionY":-1,"GridPositionZ":0,"AdditionalGridPositionX":0.0,"AdditionalGridPositionY":0.0,"AdditionalGridPositionZ":0.0,"FlipX":false,"ID":"-7b84199e-28c4-4384-b0fe-2eb04c1c7d28","componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":null,"ID":"fe4b8afd-f2eb-440a-a03c-0ce642f1ec5d","isActive":false},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"49b8fbcf-7d0c-47db-b925-27bfbce046a6","isActive":false}
+]},"ToolName":"","AuthorName":"","dataVersion":16},
+{"$type":"EndlessAdv.IsometricSystem.IsometricEnvironmentTileData, Assembly-CSharp","TileDefinitionID":"----Tile-6fe4704f-0bea-4690-8cc7-a265c50d89bc","VariationIndex":0,"GridPositionX":-3,"GridPositionY":-1,"GridPositionZ":0,"AdditionalGridPositionX":0.0,"AdditionalGridPositionY":0.0,"AdditionalGridPositionZ":0.0,"FlipX":false,"ID":"-dee72800-a031-4d98-8a5a-6832fa4d658c","componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":null,"ID":"215fcc97-8cba-442d-8823-d36b65d8b77e","isActive":false},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"30ab568d-01c5-4b31-ad1c-d5ec7ea46546","isActive":false}
+]},"ToolName":"","AuthorName":"","dataVersion":16},
+{"$type":"EndlessAdv.IsometricSystem.IsometricEnvironmentTileData, Assembly-CSharp","TileDefinitionID":"----Tile-6fe4704f-0bea-4690-8cc7-a265c50d89bc","VariationIndex":0,"GridPositionX":-4,"GridPositionY":-1,"GridPositionZ":0,"AdditionalGridPositionX":0.0,"AdditionalGridPositionY":0.0,"AdditionalGridPositionZ":0.0,"FlipX":false,"ID":"-97fd228a-d28f-4be9-8771-83e4f9588fda","componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":null,"ID":"aa5d8c1a-5971-4453-9c00-1b90e19ea0ec","isActive":false},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"e892d978-b496-45e7-a323-daa215b25b71","isActive":false}
+]},"ToolName":"","AuthorName":"","dataVersion":16},
+{"$type":"EndlessAdv.IsometricSystem.IsometricEnvironmentTileData, Assembly-CSharp","TileDefinitionID":"----Tile-6fe4704f-0bea-4690-8cc7-a265c50d89bc","VariationIndex":0,"GridPositionX":-4,"GridPositionY":0,"GridPositionZ":0,"AdditionalGridPositionX":0.0,"AdditionalGridPositionY":0.0,"AdditionalGridPositionZ":0.0,"FlipX":false,"ID":"-c5297354-8a9a-4d20-8711-c29c745ec7ee","componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":null,"ID":"6becd3d2-f6c8-4954-b069-c00b32918b4a","isActive":false},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"442910e8-97dc-4f62-8f10-b1ec9a9a4049","isActive":false}
+]},"ToolName":"","AuthorName":"","dataVersion":16},
+{"$type":"EndlessAdv.IsometricSystem.IsometricEnvironmentTileData, Assembly-CSharp","TileDefinitionID":"----Tile-6fe4704f-0bea-4690-8cc7-a265c50d89bc","VariationIndex":0,"GridPositionX":-3,"GridPositionY":0,"GridPositionZ":0,"AdditionalGridPositionX":0.0,"AdditionalGridPositionY":0.0,"AdditionalGridPositionZ":0.0,"FlipX":false,"ID":"-5d096674-df0c-4fcc-ab78-9b638c964028","componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":null,"ID":"bbd0b029-9d51-421f-87cb-33cd7ea373a7","isActive":false},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"00643502-3668-4401-ba59-82f9912a7ed3","isActive":false}
+]},"ToolName":"","AuthorName":"","dataVersion":16},
+{"$type":"EndlessAdv.IsometricSystem.IsometricEnvironmentTileData, Assembly-CSharp","TileDefinitionID":"----Tile-6fe4704f-0bea-4690-8cc7-a265c50d89bc","VariationIndex":0,"GridPositionX":-2,"GridPositionY":0,"GridPositionZ":0,"AdditionalGridPositionX":0.0,"AdditionalGridPositionY":0.0,"AdditionalGridPositionZ":0.0,"FlipX":false,"ID":"-f442c44a-5e8b-4402-8cb9-9a406c473a76","componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":null,"ID":"fef445c6-27c8-4d3b-9a3f-94976500c95f","isActive":false},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"74b2c2fe-9d08-4edf-9eaf-9bd55833a82e","isActive":false}
+]},"ToolName":"","AuthorName":"","dataVersion":16},
+{"$type":"EndlessAdv.IsometricSystem.IsometricEnvironmentTileData, Assembly-CSharp","TileDefinitionID":"----Tile-6fe4704f-0bea-4690-8cc7-a265c50d89bc","VariationIndex":0,"GridPositionX":-1,"GridPositionY":0,"GridPositionZ":0,"AdditionalGridPositionX":0.0,"AdditionalGridPositionY":0.0,"AdditionalGridPositionZ":0.0,"FlipX":false,"ID":"-449fe0bb-249d-41e1-9add-7923c979af15","componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":null,"ID":"7f97a23a-85e4-4066-8897-d5645d619046","isActive":false},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"f04201ec-6073-4823-ba97-66e8f622d758","isActive":false}
+]},"ToolName":"","AuthorName":"","dataVersion":16},
+{"$type":"EndlessAdv.IsometricSystem.IsometricEnvironmentTileData, Assembly-CSharp","TileDefinitionID":"----Tile-6fe4704f-0bea-4690-8cc7-a265c50d89bc","VariationIndex":0,"GridPositionX":0,"GridPositionY":0,"GridPositionZ":0,"AdditionalGridPositionX":0.0,"AdditionalGridPositionY":0.0,"AdditionalGridPositionZ":0.0,"FlipX":false,"ID":"-d40148a3-1725-43d0-8089-c221be0185e5","componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":null,"ID":"7c0f3181-6d55-41d4-9218-e3fb500cf7a8","isActive":false},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"e361a4ee-faf9-4e1e-833d-7caec0783294","isActive":false}
+]},"ToolName":"","AuthorName":"","dataVersion":16},
+{"$type":"EndlessAdv.IsometricSystem.IsometricEnvironmentTileData, Assembly-CSharp","TileDefinitionID":"----Tile-6fe4704f-0bea-4690-8cc7-a265c50d89bc","VariationIndex":0,"GridPositionX":1,"GridPositionY":-3,"GridPositionZ":0,"AdditionalGridPositionX":0.0,"AdditionalGridPositionY":0.0,"AdditionalGridPositionZ":0.0,"FlipX":false,"ID":"-5675b7ef-cf83-4db3-b33e-df4d0d322953","componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":null,"ID":"dc8de6ad-3999-434f-a775-fb840bcf8aeb","isActive":false},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"3b80e172-1cd7-489a-95b2-d8e7111f6e86","isActive":false}
+]},"ToolName":"","AuthorName":"","dataVersion":16},
+{"$type":"EndlessAdv.IsometricSystem.IsometricEnvironmentTileData, Assembly-CSharp","TileDefinitionID":"----Tile-6fe4704f-0bea-4690-8cc7-a265c50d89bc","VariationIndex":0,"GridPositionX":1,"GridPositionY":-4,"GridPositionZ":0,"AdditionalGridPositionX":0.0,"AdditionalGridPositionY":0.0,"AdditionalGridPositionZ":0.0,"FlipX":false,"ID":"-c92c042e-3046-4ae1-985d-c7a8de98c639","componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":null,"ID":"c1ae9dde-52ab-4537-bd28-30703ade7648","isActive":false},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"63680359-49f9-4857-87ab-87e54c7f63a1","isActive":false}
+]},"ToolName":"","AuthorName":"","dataVersion":16}
+]}},
+"BackgroundDecals":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.IsometricSystem.LocationDecalData, Assembly-CSharp]], mscorlib","$values":[]},
+"OverlayDecals":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.IsometricSystem.LocationDecalData, Assembly-CSharp]], mscorlib","$values":[]},
+"PaintOverDecals":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.IsometricSystem.LocationDecalData, Assembly-CSharp]], mscorlib","$values":[]},
+"Props":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.IsometricSystem.IsometricEnvironmentPropData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EndlessAdv.IsometricSystem.IsometricEnvironmentPropData, Assembly-CSharp","PropDefinitionID":"-IsoProp-764b215b-4c38-456f-a849-8d6f6639717a","GridPositionX":0,"GridPositionY":0,"GridPositionZ":1,"AdditionalGridPositionX":0.0,"AdditionalGridPositionY":0.0,"AdditionalGridPositionZ":0.0,"FlipX":false,"ID":"-8ceb2410-f79a-4862-9abd-fc0cf2ff0ede","componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":null,"ID":"342a722a-2aaa-4e00-be26-7c4cd4fe6cac","isActive":false},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"a749c832-8686-4996-98dc-b81105096c24","isActive":false}
+]},"ToolName":"","AuthorName":"","dataVersion":16}
+]},
+"Lights":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.IsometricSystem.IsometricEnvironmentLightData, Assembly-CSharp]], mscorlib","$values":[]},
+"NamedZones":{"$type":"System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[EndlessAdv.NamedZoneData, Assembly-CSharp]], mscorlib"},
+"GlobalColor":{"$type":"SerializableColor, Assembly-CSharp","R":1.0,"G":1.0,"B":1.0,"A":1.0},
+"PostProcessingIndex":0,
+"thumbnailImgId":"3a3c6271-d571-4f19-b867-d3397243911c",
+"StartingTags":null,
+"ID":"Location-b6e48126-2ae0-4fde-abda-49a7d9d8e870",
+"componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":"New Location","ID":"24175ce3-30ff-4ee3-90a4-26fca5f9ad5e","isActive":false},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":"","ID":"a65ddef8-a885-41e7-a3b0-30bb331dd346","isActive":false},
+{"$type":"EAOBJInitialTagsComponentData, Assembly-CSharp","initialTagsDatas":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.AuthDatas.StartingTagData, Assembly-CSharp]], mscorlib","$values":[]},"ID":"273ff469-a98c-466f-bc44-f465fe8a6e6f","isActive":false}
+]},
+"ToolName":"New Location",
+"AuthorName":"",
+"dataVersion":16
+}

@@ -1,0 +1,15 @@
+{
+"$type":"NewContentManager+ManifestEntry, Assembly-CSharp",
+"ID":"b4364630-584f-43b3-b67a-75138ee137cb",
+"Name":"PackedFiles_Adventure_Assets_VFX_.zip",
+"PlayfabID":null,
+"LocalPath":"Adventure Assets/VFX/",
+"LastChangedTime":"2026-11-09T21:22:35.342593Z",
+"Type":"PackedItems",
+"URL":null,
+"FileSize":0,
+"SubItems":{"$type":"System.Collections.Generic.List`1[[NewContentManager+SubManifestEntry, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"407658b7-6624-444f-9e05-4960837a8973","FileName":"Flames.afvfx","FileSize":389192,"Type":0,"DateTime":"2026-11-09T16:04:33.862272Z"},
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"f58b3428-be00-4a95-bc18-8fafd8c5d72e","FileName":"FireWave.afvfx","FileSize":48906,"Type":0,"DateTime":"2026-11-09T21:22:35.342593Z"}
+]}
+}

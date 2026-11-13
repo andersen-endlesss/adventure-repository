@@ -1,0 +1,15 @@
+{
+"$type":"NewContentManager+ManifestEntry, Assembly-CSharp",
+"ID":"b9c469aa-d7e6-44a2-9608-8290f08851d6",
+"Name":"PackedFiles_Adventure_Assets_UI_.zip",
+"PlayfabID":null,
+"LocalPath":"Adventure Assets/UI/",
+"LastChangedTime":"2026-11-09T19:14:43.217468Z",
+"Type":"PackedItems",
+"URL":null,
+"FileSize":0,
+"SubItems":{"$type":"System.Collections.Generic.List`1[[NewContentManager+SubManifestEntry, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"66ed8259-6c7b-4c18-9ca5-06bc9f871b18","FileName":"4.png","FileSize":69799,"Type":4,"DateTime":"2026-10-28T14:10:25.905251Z"},
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"5eb48963-69e3-417c-92f9-5dea2eb6ebc9","FileName":"8.png","FileSize":1022197,"Type":4,"DateTime":"2026-10-28T14:10:25.916475Z"}
+]}
+}

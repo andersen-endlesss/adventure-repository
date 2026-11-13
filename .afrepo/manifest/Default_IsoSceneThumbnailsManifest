@@ -1,0 +1,18 @@
+{
+"$type":"NewContentManager+ManifestEntry, Assembly-CSharp",
+"ID":"Default_IsoSceneThumbnailsManifest",
+"Name":"PackedFiles_IsoSceneThumbnail.zip",
+"PlayfabID":null,
+"LocalPath":"IsoSceneThumbnail",
+"LastChangedTime":"2026-11-11T21:08:31.7759039Z",
+"Type":"PackedItems",
+"URL":null,
+"FileSize":0,
+"SubItems":{"$type":"System.Collections.Generic.List`1[[NewContentManager+SubManifestEntry, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"3a3c6271-d571-4f19-b867-d3397243911c","FileName":"Location-b6e48126-2ae0-4fde-abda-49a7d9d8e870.jpg","FileSize":37511,"Type":9,"DateTime":"2026-11-09T21:01:44.41276Z"},
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"2ed715fc-ac7d-4d45-9398-024090b9a1a4","FileName":"Location-f782762f-d2d2-4016-b474-870e8a23478f.jpg","FileSize":18737,"Type":9,"DateTime":"2026-10-20T21:05:11.5712931Z"},
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"33bf9caa-389d-41bb-bca4-ed0e328548fc","FileName":"Location-ae77229b-d69c-45d3-9b2b-00343ceadff6.jpg","FileSize":33427,"Type":9,"DateTime":"2026-11-06T17:30:18.4297039Z"},
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"ca952ef0-68b3-46de-bef9-722e0ad35382","FileName":"Location-f827808e-f39a-4da0-9870-35294a364fa3.jpg","FileSize":21473,"Type":9,"DateTime":"2026-11-10T00:23:23.6736779Z"},
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"ad76db49-2c05-4807-b597-7813facf65e5","FileName":"Location-c1c39f6f-2e1a-4507-82d4-6aa81f52fc46.jpg","FileSize":33179,"Type":9,"DateTime":"2026-11-11T21:08:31.7759039Z"}
+]}
+}

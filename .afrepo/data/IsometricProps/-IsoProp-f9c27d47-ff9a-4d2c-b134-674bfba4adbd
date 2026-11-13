@@ -1,0 +1,30 @@
+{
+"$type":"EndlessAdv.AuthDatas.IsometricPropData, Assembly-CSharp",
+"PropType":1,
+"Direction":5,
+"PathBehaviorType":2,
+"InitialStateID":"00000000----State-00000000-0000-0000-0000-000000000000",
+"Categories":{"$type":"System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib","$values":["LocCateg-40ea6e7d-824e-496d-ba40-522d6fb46a11"]},
+"StartingTags":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.AuthDatas.StartingTagData, Assembly-CSharp]], mscorlib","$values":[]},
+"ID":"-IsoProp-f9c27d47-ff9a-4d2c-b134-674bfba4adbd",
+"componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":"Ladder","ID":"a844c3e2-4d16-4de6-97b4-251d9d3a2108","isActive":false},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"e1c267ed-4734-49fb-bb3c-d99564dd9d2b","isActive":false},
+{"$type":"EAIsometricPropsComponentData, Assembly-CSharp","States":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.AuthDatas.IsometricPropStateData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EndlessAdv.AuthDatas.IsometricPropStateData, Assembly-CSharp","ID":"00000000----State-00000000-0000-0000-0000-000000000000","Decals":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.IsometricSystem.LocationDecalData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EndlessAdv.IsometricSystem.LocationDecalData, Assembly-CSharp","ImageID":"c9b466ed-b6f8-4785-b442-f237e991bff5","DrawOrder":0,"Position":{"$type":"SerializableVector3, Assembly-CSharp","x":-0.005,"y":-0.7825,"z":0.0},"Rotation":0.0,"Scale":1.0,"ParallaxValue":0.0,"MaskSize":{"$type":"SerializableVector3, Assembly-CSharp","x":0.0,"y":0.0,"z":0.0},"MaskOffset":{"$type":"SerializableVector3, Assembly-CSharp","x":0.0,"y":0.0,"z":0.0},"MaskedByCharacters":false,"is2DDecal":true,"VolumeWalkability":0,"RenderVolume":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.IsometricSystem.IsometricPosition, Assembly-CSharp]], mscorlib","$values":[{"$type":"EndlessAdv.IsometricSystem.IsometricPosition, Assembly-CSharp","x":0,"y":0,"z":0,"additionalX":0.0,"additionalY":0.0,"additionalZ":0.0}]},"CollisionVolume":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.IsometricSystem.IsometricPosition, Assembly-CSharp]], mscorlib","$values":[{"$type":"EndlessAdv.IsometricSystem.IsometricPosition, Assembly-CSharp","x":0,"y":0,"z":0,"additionalX":0.0,"additionalY":0.0,"additionalZ":0.0}]},"GridPositionX":0,"GridPositionY":0,"GridPositionZ":0,"AdditionalGridPositionX":0.0,"AdditionalGridPositionY":0.0,"AdditionalGridPositionZ":0.0,"FlipX":false,"ID":"-60fb9799-579b-479c-9024-94dc3c779079","componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":"Ladder","ID":"6c7ead9c-27c8-48c1-a1a2-61f7dce774f7","isActive":false},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"56c21eaa-4243-4e84-89d9-ec1b50d016a5","isActive":false},
+{"$type":"EAObjColliderComponentData, Assembly-CSharp","coverType":0,"ID":"f4643913-8f93-4a7a-a310-97babb0744ae","isActive":false}
+]},"ToolName":"Ladder","AuthorName":"","dataVersion":16}
+]},"Volume":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.IsometricSystem.IsometricPosition, Assembly-CSharp]], mscorlib","$values":[]},"LineOfSightVolumes":{"$type":"System.Collections.Generic.List`1[[LineOfSightVolumeData, Assembly-CSharp]], mscorlib","$values":[]},"Height":1,"IsMovable":false,"OnStateEnterLogic":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.AuthDatas.ActionData, Assembly-CSharp]], mscorlib","$values":[]},"OnInteractionLogic":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.AuthDatas.ActionData, Assembly-CSharp]], mscorlib","$values":[]},"AudioPreset":{"$type":"EndlessAdv.AuthDatas.AudioPresetData, Assembly-CSharp","Clip":{"$type":"EndlessAdv.AuthDatas.AudioClipData, Assembly-CSharp","Volume":1.0,"Pan":0.0,"Pitch":1.0,"EmitterRadius":0.0,"UseLocationBasedAttention":false,"UseSpatialAudio":false},"Fade":{"$type":"EndlessAdv.AuthDatas.FadeData, Assembly-CSharp","Type":0,"Duration":0.0},"Lowpass":{"$type":"EndlessAdv.AuthDatas.PassAudioFrequency, Assembly-CSharp","CutoffFrequency":12000.0,"Resonance":1.0},"Highpass":{"$type":"EndlessAdv.AuthDatas.PassAudioFrequency, Assembly-CSharp","CutoffFrequency":0.0,"Resonance":1.0},"Type":0,"AudioID":null,"ID":"AudioObj-286bb5b0-c264-4b65-8989-6e94d1499b85","componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":"","ID":"90dfd2b6-6044-4fa4-9401-d8be5d52b664","isActive":false},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"e9f3d9bf-1332-4917-9fd8-6990c8410abf","isActive":false}
+]},"ToolName":"","AuthorName":"","dataVersion":16},"IsWalkable":false}
+]},"ID":"72507502-172c-4181-bd12-e7401df23daa","isActive":false},
+{"$type":"EAOBJInitialTagsComponentData, Assembly-CSharp","initialTagsDatas":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.AuthDatas.StartingTagData, Assembly-CSharp]], mscorlib","$values":[]},"ID":"ba3b88de-0494-49bf-9f0d-97dc8072ec54","isActive":false}
+]},
+"ToolName":"Ladder",
+"AuthorName":"",
+"dataVersion":16
+}

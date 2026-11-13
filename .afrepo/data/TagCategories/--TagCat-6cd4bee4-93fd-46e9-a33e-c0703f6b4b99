@@ -1,0 +1,12 @@
+{
+"$type":"EndlessAdv.AuthDatas.TagCategoryData, Assembly-CSharp",
+"TagsIDs":{"$type":"System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib","$values":["ValueTag-f45004a4-8768-4b10-a39c-b255aa8df538","ValueTag-a303d7ed-f506-4e08-84e1-3e32f99cea2d"]},
+"ID":"--TagCat-6cd4bee4-93fd-46e9-a33e-c0703f6b4b99",
+"componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":"Father Antonio","ID":"709da7b9-cf82-4c7e-9c49-8b36403aa0e0","isActive":false},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"b5cd461b-d67e-4884-b33e-b10f000f7692","isActive":false}
+]},
+"ToolName":"Father Antonio",
+"AuthorName":"",
+"dataVersion":16
+}

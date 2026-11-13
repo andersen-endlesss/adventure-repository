@@ -1,0 +1,15 @@
+{
+"$type":"NewContentManager+ManifestEntry, Assembly-CSharp",
+"ID":"ac49c8bf-d376-40ea-8c4b-e521aecab529",
+"Name":"PackedFiles_Adventure_Assets_FBX_Items_Swords_.zip",
+"PlayfabID":null,
+"LocalPath":"Adventure Assets/FBX/Items/Swords/",
+"LastChangedTime":"2026-11-09T20:44:43.2220599Z",
+"Type":"PackedItems",
+"URL":null,
+"FileSize":0,
+"SubItems":{"$type":"System.Collections.Generic.List`1[[NewContentManager+SubManifestEntry, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"faf739a3-7446-4bb1-8613-14ac08e6cd94","FileName":"Claymore.fbx","FileSize":272428,"Type":7,"DateTime":"2026-11-09T20:44:35.9742989Z"},
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"e7d4fcc8-7518-4b67-b0de-9b2a12cbb978","FileName":"Rapier.fbx","FileSize":305004,"Type":7,"DateTime":"2026-11-09T20:44:35.979346Z"}
+]}
+}

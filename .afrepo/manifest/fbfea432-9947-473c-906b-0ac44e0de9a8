@@ -1,0 +1,14 @@
+{
+"$type":"NewContentManager+ManifestEntry, Assembly-CSharp",
+"ID":"fbfea432-9947-473c-906b-0ac44e0de9a8",
+"Name":"PackedFiles_Adventure_Assets_Animated_Tiles_.zip",
+"PlayfabID":null,
+"LocalPath":"Adventure Assets/Animated Tiles/",
+"LastChangedTime":"2026-11-10T19:36:23.3114271Z",
+"Type":"PackedItems",
+"URL":null,
+"FileSize":0,
+"SubItems":{"$type":"System.Collections.Generic.List`1[[NewContentManager+SubManifestEntry, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"5f4eb54e-bc26-4517-8a9c-043d88da9841","FileName":"Tile_Animated_1.animation.animation","FileSize":15900443,"Type":5,"DateTime":"2026-11-10T19:36:11.6363248Z"}
+]}
+}

@@ -1,0 +1,16 @@
+{
+"$type":"System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[NewContentManager+ManifestEntry, Assembly-CSharp]], mscorlib",
+"Default_AdventureAssetsManifest":"@manifest/Default_AdventureAssetsManifest",
+"Default_LocationsManifest":"@manifest/Default_LocationsManifest",
+"Default_IsoSceneThumbnailsManifest":"@manifest/Default_IsoSceneThumbnailsManifest",
+"cbcd8d27-b593-45c9-9e9d-62a4f7baf190":"@manifest/cbcd8d27-b593-45c9-9e9d-62a4f7baf190",
+"0b854817-2942-42d8-958e-e8fcb5d938f0":"@manifest/0b854817-2942-42d8-958e-e8fcb5d938f0",
+"a5a087ac-266b-4328-a0cf-ba3e160fb951":"@manifest/a5a087ac-266b-4328-a0cf-ba3e160fb951",
+"b4364630-584f-43b3-b67a-75138ee137cb":"@manifest/b4364630-584f-43b3-b67a-75138ee137cb",
+"41b240d9-402c-4cc7-b988-53f57e381e41":"@manifest/41b240d9-402c-4cc7-b988-53f57e381e41",
+"b9c469aa-d7e6-44a2-9608-8290f08851d6":"@manifest/b9c469aa-d7e6-44a2-9608-8290f08851d6",
+"f1e36d8e-3111-44e2-bf50-a533e390001d":"@manifest/f1e36d8e-3111-44e2-bf50-a533e390001d",
+"ac49c8bf-d376-40ea-8c4b-e521aecab529":"@manifest/ac49c8bf-d376-40ea-8c4b-e521aecab529",
+"fbfea432-9947-473c-906b-0ac44e0de9a8":"@manifest/fbfea432-9947-473c-906b-0ac44e0de9a8",
+"0b479ea1-8585-4054-906c-ec3715ff35b1":"@manifest/0b479ea1-8585-4054-906c-ec3715ff35b1"
+}

@@ -1,0 +1,19 @@
+{
+"$type":"NewContentManager+ManifestEntry, Assembly-CSharp",
+"ID":"0b854817-2942-42d8-958e-e8fcb5d938f0",
+"Name":"PackedFiles_Adventure_Assets_Props_.zip",
+"PlayfabID":null,
+"LocalPath":"Adventure Assets/Props/",
+"LastChangedTime":"2026-11-09T19:14:43.217468Z",
+"Type":"PackedItems",
+"URL":null,
+"FileSize":0,
+"SubItems":{"$type":"System.Collections.Generic.List`1[[NewContentManager+SubManifestEntry, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"c9b466ed-b6f8-4785-b442-f237e991bff5","FileName":"ladder.png","FileSize":6731,"Type":4,"DateTime":"2026-11-06T17:28:55.5543229Z"},
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"c238e3f1-03f8-49cd-99a8-db2c01d9c349","FileName":"3.png","FileSize":67406,"Type":4,"DateTime":"2026-10-28T14:10:25.9018809Z"},
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"2c006daf-dd39-44f2-ad2e-7e7e7fd56d78","FileName":"1.png","FileSize":496466,"Type":4,"DateTime":"2026-10-28T14:10:25.8915779Z"},
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"db9f67e1-c559-40d1-9215-117c55d890d2","FileName":"2.png","FileSize":105985,"Type":4,"DateTime":"2026-10-28T14:10:25.8981618Z"},
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"78760907-d66a-46ae-a112-2c55aa402c3a","FileName":"6.png","FileSize":498923,"Type":4,"DateTime":"2026-10-28T14:10:25.9092509Z"},
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"ab738a82-e11f-45bb-8db8-ad5e67921c2e","FileName":"7.png","FileSize":308780,"Type":4,"DateTime":"2026-10-28T14:10:25.9131019Z"}
+]}
+}

@@ -1,0 +1,13 @@
+{
+"$type":"EndlessAdv.AuthDatas.LocationCategoryData, Assembly-CSharp",
+"ID":"LocCateg-40ea6e7d-824e-496d-ba40-522d6fb46a11",
+"componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":"Structures","ID":"96094596-c468-4223-91ec-5499c983f3f2","isActive":false},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"40a84035-8426-4eb9-955d-ea87b103ca83","isActive":false}
+]},
+"ToolName":"Structures",
+"AuthorName":"",
+"dataVersion":16,
+"TilesIDs":{"$type":"System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib","$values":[]},
+"PropsIDs":{"$type":"System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib","$values":["-IsoProp-f9c27d47-ff9a-4d2c-b134-674bfba4adbd"]}
+}
