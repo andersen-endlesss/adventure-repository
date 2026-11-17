@@ -3,7 +3,7 @@
 "ParentSceneID":"---Scene-3584a0a0-e24a-4732-9d80-3acf90a0e39e",
 "ParentGroupID":"---Scene-3584a0a0-e24a-4732-9d80-3acf90a0e39e",
 "NodePlacementParents":{"$type":"System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib","$values":["---Scene-3584a0a0-e24a-4732-9d80-3acf90a0e39e"]},
-"NodePlacements":{"$type":"System.Collections.Generic.List`1[[SerializableVector2, Assembly-CSharp]], mscorlib","$values":[{"$type":"SerializableVector2, Assembly-CSharp","x":0.0,"y":-90.0}]},
+"NodePlacements":{"$type":"System.Collections.Generic.List`1[[SerializableVector2, Assembly-CSharp]], mscorlib","$values":[{"$type":"SerializableVector2, Assembly-CSharp","x":310.0,"y":0.0}]},
 "TextLogic":{"$type":"System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[EndlessAdv.AuthDatas.TextLogicData, Assembly-CSharp]], mscorlib"},
 "ID":"ExpEvent-6f301cda-e4ae-4311-9a9f-bc294125dfae",
 "componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[

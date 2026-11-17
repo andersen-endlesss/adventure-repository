@@ -4,12 +4,14 @@
 "Name":"PackedFiles_Adventure_Assets_FBX_Items_Swords_.zip",
 "PlayfabID":null,
 "LocalPath":"Adventure Assets/FBX/Items/Swords/",
-"LastChangedTime":"2026-11-09T20:44:43.2220599Z",
+"LastChangedTime":"2026-11-17T02:31:41.0082459Z",
 "Type":"PackedItems",
 "URL":null,
 "FileSize":0,
 "SubItems":{"$type":"System.Collections.Generic.List`1[[NewContentManager+SubManifestEntry, Assembly-CSharp]], mscorlib","$values":[
 {"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"faf739a3-7446-4bb1-8613-14ac08e6cd94","FileName":"Claymore.fbx","FileSize":272428,"Type":7,"DateTime":"2026-11-09T20:44:35.9742989Z"},
-{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"e7d4fcc8-7518-4b67-b0de-9b2a12cbb978","FileName":"Rapier.fbx","FileSize":305004,"Type":7,"DateTime":"2026-11-09T20:44:35.979346Z"}
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"e7d4fcc8-7518-4b67-b0de-9b2a12cbb978","FileName":"Rapier.fbx","FileSize":305004,"Type":7,"DateTime":"2026-11-09T20:44:35.979346Z"},
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"ad3a98ed-c231-45f2-a966-d4162ac5588e","FileName":"electro_sword.FBX","FileSize":199568,"Type":7,"DateTime":"2026-11-09T19:19:06.190886Z"},
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"8b3fc935-f1d2-4edf-b544-47f90a7a28c9","FileName":"electro_sword_fire_circle.FBX","FileSize":203712,"Type":7,"DateTime":"2026-11-09T19:19:06.1972138Z"}
 ]}
 }

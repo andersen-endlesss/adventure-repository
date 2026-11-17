@@ -4,22 +4,11 @@
 "Name":"PackedFiles_Adventure_Assets_FBX_Items_.zip",
 "PlayfabID":null,
 "LocalPath":"Adventure Assets/FBX/Items/",
-"LastChangedTime":"2026-11-09T19:19:06.235181Z",
+"LastChangedTime":"2026-11-17T02:33:11.1586439Z",
 "Type":"PackedItems",
 "URL":null,
 "FileSize":0,
 "SubItems":{"$type":"System.Collections.Generic.List`1[[NewContentManager+SubManifestEntry, Assembly-CSharp]], mscorlib","$values":[
-{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"507a3372-d2ca-4011-bb5d-1ad9a43844a0","FileName":"Pirate_Captain_sword.fbx","FileSize":6870572,"Type":7,"DateTime":"2026-11-09T00:01:04.2487208Z"},
-{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"d0c22a61-dc4f-46a2-82ad-46cbd1657512","FileName":"Fancy_Torch_Lit.fbx","FileSize":282700,"Type":7,"DateTime":"2026-11-09T00:08:04.5088369Z"},
-{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"fd4fa4a2-4b07-4ff1-9080-9d8ef43c36fd","FileName":"SmallChest.fbx","FileSize":129004,"Type":7,"DateTime":"2026-11-09T00:08:04.5128459Z"},
-{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"e6b5d0dd-6e4e-4b0c-ab5f-270f3c3b043b","FileName":"Tiara.fbx","FileSize":18172,"Type":7,"DateTime":"2026-11-09T00:08:04.5169589Z"},
-{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"c36ea476-a955-4223-ac7a-aa4e163713a2","FileName":"Linens.fbx","FileSize":129196,"Type":7,"DateTime":"2026-11-09T00:14:37.2727169Z"},
-{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"bf95db43-98b5-41e8-b5d4-0189501282ae","FileName":"Man_Hat_1.fbx","FileSize":310828,"Type":7,"DateTime":"2026-11-09T00:14:37.278681Z"},
-{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"d1268d51-a9d8-48a2-80ff-c40909921a4f","FileName":"Man_Hat_2.fbx","FileSize":326188,"Type":7,"DateTime":"2026-11-09T00:14:37.2825651Z"},
-{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"adf5a434-7287-40ff-8e20-b268596b2966","FileName":"MetalHelm_01.fbx","FileSize":17861340,"Type":7,"DateTime":"2026-11-09T00:14:37.295207Z"},
-{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"55a3eb83-6646-43a3-a820-dc4174f9ec3c","FileName":"torch1.fbx","FileSize":84736,"Type":7,"DateTime":"2026-11-09T19:15:41.2885038Z"},
-{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"7a792831-6862-4b5c-8221-719cc43dd20d","FileName":"torch2.fbx","FileSize":51616,"Type":7,"DateTime":"2026-11-09T19:16:45.0559968Z"},
-{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"ad3a98ed-c231-45f2-a966-d4162ac5588e","FileName":"electro_sword.FBX","FileSize":199568,"Type":7,"DateTime":"2026-11-09T19:19:06.190886Z"},
-{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"8b3fc935-f1d2-4edf-b544-47f90a7a28c9","FileName":"electro_sword_fire_circle.FBX","FileSize":203712,"Type":7,"DateTime":"2026-11-09T19:19:06.1972138Z"}
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"a35bfd83-93ff-4e7c-aa17-7e2c40e6d336","FileName":"robot_arm.fbx","FileSize":191317,"Type":7,"DateTime":"2026-11-17T02:33:00.6290419Z"}
 ]}
 }

@@ -109,7 +109,191 @@
 {"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":null,"ID":"09fe425b-fc24-4d8b-8d6f-4b5a0e5141b9","isActive":false},
 {"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":"","ID":"c1532b51-c060-485e-ad0c-29d7c8c13aa5","isActive":false},
 {"$type":"EAOBJCharacterImagesTypesHolderComponentData, Assembly-CSharp","imageTypesInstances":{"$type":"System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[CharacterImageTypeInstanceData, Assembly-CSharp]], mscorlib","00000000-CharImgT-00000000-0000-0000-0000-000000000000":{"$type":"CharacterImageTypeInstanceData, Assembly-CSharp","spritePath":"","characterImageTypeID":"00000000-CharImgT-00000000-0000-0000-0000-000000000000"}},"ID":"c35f51c6-22e4-4e23-aba1-68da01afd2f6","isActive":false}
-]},"ToolName":"","AuthorName":"","dataVersion":16}
+]},"ToolName":"","AuthorName":"","dataVersion":16,"AFEquipment":{"version":1,"items":[{"item":"Item-38a92096-d467-4dc2-9122-b4f8327f88bb","alias":""}]}},
+{"$type":"EndlessAdv.AuthDatas.CharacterStateDefinitionData, Assembly-CSharp","Name":null,"PortraitFilepath":null,"LineOfSightBlockSettings":{"$type":"LineOfSightBlockSettings, Assembly-CSharp","BlockerType":0,"BlockType":0,"PercentageBlocked":0},"SpeakingSoundPath":{"$type":"EndlessAdv.AuthDatas.AudioPresetData, Assembly-CSharp","Clip":{"$type":"EndlessAdv.AuthDatas.AudioClipData, Assembly-CSharp","Volume":1.0,"Pan":0.0,"Pitch":1.0,"EmitterRadius":0.0,"UseLocationBasedAttention":false,"UseSpatialAudio":false},"Fade":{"$type":"EndlessAdv.AuthDatas.FadeData, Assembly-CSharp","Type":0,"Duration":0.0},"Lowpass":{"$type":"EndlessAdv.AuthDatas.PassAudioFrequency, Assembly-CSharp","CutoffFrequency":12000.0,"Resonance":1.0},"Highpass":{"$type":"EndlessAdv.AuthDatas.PassAudioFrequency, Assembly-CSharp","CutoffFrequency":0.0,"Resonance":1.0},"Type":0,"AudioID":null,"ID":"AudioObj-a89ca47f-d0ce-4658-9b7a-e9f77db7e9fa","componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":"","ID":"34c7545f-918a-461c-b457-565bc9a99afa","isActive":false},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"c30898c1-9c7f-4042-bc68-bd0763c2806a","isActive":false}
+]},"ToolName":"","AuthorName":"","dataVersion":16},"SpeakingSpeed":0,"AnimationType":1,"CutawayEffect":false,"Animations":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.AuthDatas.SpriteAnimationData, Assembly-CSharp]], mscorlib","$values":[]},"Model3DData":{"$type":"EndlessAdv.AuthDatas.Model3DCharacterData, Assembly-CSharp","Model3DID":null,"Animations":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.AuthDatas.Model3DAnimationData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EndlessAdv.AuthDatas.Model3DAnimationData, Assembly-CSharp","ClipNames":{"$type":"System.String[], mscorlib","$values":["Idle/Unarmed/Idle"]},"ID":"-8cfbce31-af99-4fc0-8793-3ee80fefaf0f","componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":"Idle (Explore Mode)","ID":"7668ea02-6c96-4ebb-9a4a-e9a8842a4835","isActive":false},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"2a2c09f7-33bf-45b8-a1e5-41376f43a831","isActive":false}
+]},"ToolName":"Idle (Explore Mode)","AuthorName":"","dataVersion":16},
+{"$type":"EndlessAdv.AuthDatas.Model3DAnimationData, Assembly-CSharp","ClipNames":{"$type":"System.String[], mscorlib","$values":["Idle/1H and Shield/Protector_Idle"]},"ID":"-4f0797f4-68ea-45d7-b9d0-78429b66f81a","componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":"Idle (Combat Mode)","ID":"62d07f25-ef7a-4178-ba72-078bddcceee3","isActive":false},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"3f6caaae-36cf-4713-9055-4149b262e6ad","isActive":false}
+]},"ToolName":"Idle (Combat Mode)","AuthorName":"","dataVersion":16},
+{"$type":"EndlessAdv.AuthDatas.Model3DAnimationData, Assembly-CSharp","ClipNames":{"$type":"System.String[], mscorlib","$values":["Idle/Unarmed/climb-ladder-idle"]},"ID":"-241677c8-e32d-48fa-8731-5d56fbf9b6aa","componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":"Climb Ladder Idle","ID":"67e0ea8c-e43e-4468-893f-f118e2e8d8af","isActive":false},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"bc3bde06-412e-44c1-aa61-cd00cff8a45d","isActive":false}
+]},"ToolName":"Climb Ladder Idle","AuthorName":"","dataVersion":16},
+{"$type":"EndlessAdv.AuthDatas.Model3DAnimationData, Assembly-CSharp","ClipNames":{"$type":"System.String[], mscorlib","$values":["Movement/Unarmed/climb-ladder-up"]},"ID":"-aa9cea0a-703b-40b0-b8d9-abc58d04f181","componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":"Climb Ladder Up","ID":"4baa1ae5-06fd-4d04-bca2-0c1ca9042343","isActive":false},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"e6f452d4-bc5a-4b22-ace6-3542d91aeef4","isActive":false}
+]},"ToolName":"Climb Ladder Up","AuthorName":"","dataVersion":16},
+{"$type":"EndlessAdv.AuthDatas.Model3DAnimationData, Assembly-CSharp","ClipNames":{"$type":"System.String[], mscorlib","$values":["Movement/Unarmed/climb-ladder-down"]},"ID":"-9c276754-b6cd-4aa1-a703-edff2f2a2e15","componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":"Climb Ladder Down","ID":"f28b6c33-2f9b-47e1-9bd3-6d4fd449b8b4","isActive":false},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"6c81ceae-6aaa-4014-ad62-3447577d44f8","isActive":false}
+]},"ToolName":"Climb Ladder Down","AuthorName":"","dataVersion":16},
+{"$type":"EndlessAdv.AuthDatas.Model3DAnimationData, Assembly-CSharp","ClipNames":{"$type":"System.String[], mscorlib","$values":["Movement/Unarmed/jog-inplace"]},"ID":"-91b2d9ed-536d-4640-9f12-0d3efa2dfe5f","componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":"Walk (Explore Mode)","ID":"e4fa7770-5a52-4a47-82e9-b999cefce768","isActive":false},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"1577c810-6840-4cbd-93fd-367a5e179e14","isActive":false}
+]},"ToolName":"Walk (Explore Mode)","AuthorName":"","dataVersion":16},
+{"$type":"EndlessAdv.AuthDatas.Model3DAnimationData, Assembly-CSharp","ClipNames":{"$type":"System.String[], mscorlib","$values":["Movement/1H and Shield/Protector_Run_Sprint"]},"ID":"-f196999d-12d9-4699-abb5-6f476bdc1870","componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":"Walk (Combat Mode)","ID":"08be81ac-f5c1-499f-81aa-ed6775c1d259","isActive":false},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"e70f1be8-788e-4646-a7f0-9355f30a4704","isActive":false}
+]},"ToolName":"Walk (Combat Mode)","AuthorName":"","dataVersion":16},
+{"$type":"EndlessAdv.AuthDatas.Model3DAnimationData, Assembly-CSharp","ClipNames":{"$type":"System.String[], mscorlib","$values":["Dialogue/Casual/Talking_Casual_HandGesture01"]},"ID":"-6370f9c3-adad-4a6a-b27c-343258ce3212","componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":"Speaking (Explore Mode)","ID":"cc230c2a-25c5-4e6c-881d-c4541584edc4","isActive":false},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"e53027be-7a38-472e-b79d-3444f76ea7ec","isActive":false}
+]},"ToolName":"Speaking (Explore Mode)","AuthorName":"","dataVersion":16},
+{"$type":"EndlessAdv.AuthDatas.Model3DAnimationData, Assembly-CSharp","ClipNames":{"$type":"System.String[], mscorlib","$values":["Dialogue/Tough/Talking_ToughGuy_HandGesture13"]},"ID":"-e356ca05-50a2-4bfb-8ad1-92d12b18f885","componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":"Speaking (Combat Mode)","ID":"915f54a4-bd50-4a13-9fc4-9ae3210c5d4d","isActive":false},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"efad8780-2804-4ebe-acc4-63ec4a3b2f6b","isActive":false}
+]},"ToolName":"Speaking (Combat Mode)","AuthorName":"","dataVersion":16},
+{"$type":"EndlessAdv.AuthDatas.Model3DAnimationData, Assembly-CSharp","ClipNames":{"$type":"System.String[], mscorlib","$values":["Skills/1H and Shield/Protector_Attack01_Inplace"]},"ID":"-b3bff135-5035-4580-88ac-63c8d08097ae","componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":"Attack","ID":"ba60a46b-ea00-4332-8969-4a428008973b","isActive":false},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"fcf0c40c-185b-4844-ad9b-5fc6a1e0e5c5","isActive":false}
+]},"ToolName":"Attack","AuthorName":"","dataVersion":16},
+{"$type":"EndlessAdv.AuthDatas.Model3DAnimationData, Assembly-CSharp","ClipNames":{"$type":"System.String[], mscorlib","$values":["Jump/1H and Shield/Protector_Jump_Start"]},"ID":"-fed6df6f-d982-48ba-ae4d-d01d76132fb7","componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":"Jump: Start","ID":"5c6594c4-d031-4df9-8ac0-adcafaf47320","isActive":false},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"d98a14d9-c28f-46c3-89e8-581f42499e8c","isActive":false}
+]},"ToolName":"Jump: Start","AuthorName":"","dataVersion":16},
+{"$type":"EndlessAdv.AuthDatas.Model3DAnimationData, Assembly-CSharp","ClipNames":{"$type":"System.String[], mscorlib","$values":["Jump/1H and Shield/Protector_Jump_Loop"]},"ID":"-b411a5d5-be14-4ad2-93e6-006678ef038c","componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":"Jump: Loop","ID":"300b220b-4ba9-47bc-a349-5d80e1849631","isActive":false},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"f9a8e870-f605-4b9e-ade4-8c6d655ce9ec","isActive":false}
+]},"ToolName":"Jump: Loop","AuthorName":"","dataVersion":16},
+{"$type":"EndlessAdv.AuthDatas.Model3DAnimationData, Assembly-CSharp","ClipNames":{"$type":"System.String[], mscorlib","$values":["Jump/1H and Shield/Protector_Jump_End"]},"ID":"-958519e0-5f59-418b-a141-5fcdf18ef9aa","componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":"Jump: Land","ID":"af7f2d79-b5f3-4b3c-a8c3-b1203cb451b3","isActive":false},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"840564d0-7f25-4982-b113-13d5d81f245a","isActive":false}
+]},"ToolName":"Jump: Land","AuthorName":"","dataVersion":16},
+{"$type":"EndlessAdv.AuthDatas.Model3DAnimationData, Assembly-CSharp","ClipNames":{"$type":"System.String[], mscorlib","$values":["Jump/1H and Shield/Protector_Jump_Loop"]},"ID":"-b724fe5a-3055-48a9-b45e-434837a18759","componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":"Uncontrolled Fall: Loop","ID":"c044ddc4-8ea0-49d9-a887-bb852fc3ca0e","isActive":false},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"40ac8b17-4f62-4f73-81cf-24e6e7d1e2b6","isActive":false}
+]},"ToolName":"Uncontrolled Fall: Loop","AuthorName":"","dataVersion":16},
+{"$type":"EndlessAdv.AuthDatas.Model3DAnimationData, Assembly-CSharp","ClipNames":{"$type":"System.String[], mscorlib","$values":["Jump/1H and Shield/Protector_Jump_End"]},"ID":"-475bba2b-4552-48e7-8cef-8fd05d60e629","componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":"Uncontrolled Fall: Land","ID":"10ad66d2-a19b-460b-8ee5-eba767bfc278","isActive":false},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"1590e6f3-798a-4d3d-8e10-e43075708c4f","isActive":false}
+]},"ToolName":"Uncontrolled Fall: Land","AuthorName":"","dataVersion":16},
+{"$type":"EndlessAdv.AuthDatas.Model3DAnimationData, Assembly-CSharp","ClipNames":{"$type":"System.String[], mscorlib","$values":["Activations/General/Activate_Wall_ButtonPush"]},"ID":"-d904c37d-1647-4387-bff4-08051b10cd89","componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":"Prop Interact (Explore Mode)","ID":"b65ee2eb-19fd-4c03-a827-8e01c8670fdb","isActive":false},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"7f20ee88-f621-4015-a8f4-78d16f810a20","isActive":false}
+]},"ToolName":"Prop Interact (Explore Mode)","AuthorName":"","dataVersion":16},
+{"$type":"EndlessAdv.AuthDatas.Model3DAnimationData, Assembly-CSharp","ClipNames":{"$type":"System.String[], mscorlib","$values":["Activations/General/Activate_Wall_ButtonPush"]},"ID":"-039a6706-408b-4c84-ba19-a56a23cb6b5c","componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":"Prop Interact (Combat Mode)","ID":"d351bcbf-5900-4e9d-9be1-9b854e613de7","isActive":false},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"d68e258d-99eb-4534-9768-db83b54e2aec","isActive":false}
+]},"ToolName":"Prop Interact (Combat Mode)","AuthorName":"","dataVersion":16},
+{"$type":"EndlessAdv.AuthDatas.Model3DAnimationData, Assembly-CSharp","ClipNames":{"$type":"System.String[], mscorlib","$values":["Hit/1H and Shield/Protector_Defense1_Hit_Inplace"]},"ID":"-a058a915-c2f8-4e2d-a99f-8b468eca5231","componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":"Hit: Small","ID":"2f8301a6-5373-4828-aa43-44a1ca0d4140","isActive":false},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"eb9c022e-c2c7-4ebd-99aa-4c82c20d33a1","isActive":false}
+]},"ToolName":"Hit: Small","AuthorName":"","dataVersion":16},
+{"$type":"EndlessAdv.AuthDatas.Model3DAnimationData, Assembly-CSharp","ClipNames":{"$type":"System.String[], mscorlib","$values":["Hit/1H and Shield/Protector_Hit_F_Inplace"]},"ID":"-842f25f8-2b55-4d16-8481-e3c95d21e55b","componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":"Hit: Large","ID":"ea5fbf3d-c995-49b5-8135-e021eec21670","isActive":false},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"979484be-cd1e-4f7f-930e-b59a4e1ba04f","isActive":false}
+]},"ToolName":"Hit: Large","AuthorName":"","dataVersion":16},
+{"$type":"EndlessAdv.AuthDatas.Model3DAnimationData, Assembly-CSharp","ClipNames":{"$type":"System.String[], mscorlib","$values":["Death/1H and Shield/Protector_Die_1_Inplace"]},"ID":"-7ad3e0ff-e40c-4023-bf0c-566f2b83aaf8","componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":"Death","ID":"cb7a5d1c-7b06-4e9a-bf5d-31a62e5e1bbe","isActive":false},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"39569feb-ab02-4e8e-a539-dad7d9b31a87","isActive":false}
+]},"ToolName":"Death","AuthorName":"","dataVersion":16}
+]},"Scale":100,"Outline":false,"overrideShaderStyle":false,"overridenAlbedoImg":null,"Saturation":1.0,"Brightness":0.7,"outlineOverride":{"$type":"EndlessAdv.AuthDatas.CharacterOutlineThemeData, Assembly-CSharp","ColorOutline":{"$type":"SerializableColor, Assembly-CSharp","R":0.0,"G":0.0,"B":0.0,"A":1.0},"Width":0.18},"styleOverride":{"$type":"EndlessAdv.AuthDatas.CharacterShaderStyleThemeData, Assembly-CSharp","styleType":0,"opacity":1.0,"shadingRange":1.0,"ShadingRotation":0.0},"ID":"-3b841946-670e-410e-9b59-33858792741a","componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":null,"ID":"1b861325-46e2-441d-b02d-0ccd89ae5580","isActive":false},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"b48b3dfb-c89d-4649-8811-62037ca5b443","isActive":false}
+]},"ToolName":"","AuthorName":"","dataVersion":16},"Height":1.7,"scale":100.0,"ID":"CharStDt-13735630-33c2-43fa-a35f-96118c45e645","componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":"State 2","ID":"caf3c924-a682-42bb-9eeb-ba629fc74e7d","isActive":false},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":"","ID":"41e3a535-77b1-47bc-9342-3d1cec13cb2a","isActive":false},
+{"$type":"EAOBJCharacterImagesTypesHolderComponentData, Assembly-CSharp","imageTypesInstances":{"$type":"System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[CharacterImageTypeInstanceData, Assembly-CSharp]], mscorlib","00000000-CharImgT-00000000-0000-0000-0000-000000000000":{"$type":"CharacterImageTypeInstanceData, Assembly-CSharp","spritePath":"","characterImageTypeID":"00000000-CharImgT-00000000-0000-0000-0000-000000000000"}},"ID":"52877659-5ed5-4c8a-9b67-1c68d0d2c8ff","isActive":false}
+]},"ToolName":"State 2","AuthorName":"","dataVersion":16},
+{"$type":"EndlessAdv.AuthDatas.CharacterStateDefinitionData, Assembly-CSharp","Name":null,"PortraitFilepath":null,"LineOfSightBlockSettings":{"$type":"LineOfSightBlockSettings, Assembly-CSharp","BlockerType":0,"BlockType":0,"PercentageBlocked":0},"SpeakingSoundPath":{"$type":"EndlessAdv.AuthDatas.AudioPresetData, Assembly-CSharp","Clip":{"$type":"EndlessAdv.AuthDatas.AudioClipData, Assembly-CSharp","Volume":1.0,"Pan":0.0,"Pitch":1.0,"EmitterRadius":0.0,"UseLocationBasedAttention":false,"UseSpatialAudio":false},"Fade":{"$type":"EndlessAdv.AuthDatas.FadeData, Assembly-CSharp","Type":0,"Duration":0.0},"Lowpass":{"$type":"EndlessAdv.AuthDatas.PassAudioFrequency, Assembly-CSharp","CutoffFrequency":12000.0,"Resonance":1.0},"Highpass":{"$type":"EndlessAdv.AuthDatas.PassAudioFrequency, Assembly-CSharp","CutoffFrequency":0.0,"Resonance":1.0},"Type":0,"AudioID":null,"ID":"AudioObj-2b81d168-a437-4ffd-ba39-eab216751ee6","componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":"","ID":"de38888f-b6e6-4294-932e-c05715051d82","isActive":false},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"40b34c39-5200-4423-b9a9-759f110eaf2f","isActive":false}
+]},"ToolName":"","AuthorName":"","dataVersion":16},"SpeakingSpeed":0,"AnimationType":1,"CutawayEffect":false,"Animations":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.AuthDatas.SpriteAnimationData, Assembly-CSharp]], mscorlib","$values":[]},"Model3DData":{"$type":"EndlessAdv.AuthDatas.Model3DCharacterData, Assembly-CSharp","Model3DID":null,"Animations":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.AuthDatas.Model3DAnimationData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EndlessAdv.AuthDatas.Model3DAnimationData, Assembly-CSharp","ClipNames":{"$type":"System.String[], mscorlib","$values":["Idle/Unarmed/Idle"]},"ID":"-edee08e0-3a03-461d-843b-5e293ddd1878","componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":"Idle (Explore Mode)","ID":"3cbad9a0-d13c-4c57-8aae-133911ec6776","isActive":false},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"d33d39cd-eeed-4a27-8aeb-118b7748970b","isActive":false}
+]},"ToolName":"Idle (Explore Mode)","AuthorName":"","dataVersion":16},
+{"$type":"EndlessAdv.AuthDatas.Model3DAnimationData, Assembly-CSharp","ClipNames":{"$type":"System.String[], mscorlib","$values":["Idle/1H and Shield/Protector_Idle"]},"ID":"-59ae37c7-37dd-4a9a-866a-0a28f27d8897","componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":"Idle (Combat Mode)","ID":"40ee598b-d11c-47aa-aee9-3f4b361f01b2","isActive":false},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"45e7c819-5d57-4487-89e3-2f398d78b812","isActive":false}
+]},"ToolName":"Idle (Combat Mode)","AuthorName":"","dataVersion":16},
+{"$type":"EndlessAdv.AuthDatas.Model3DAnimationData, Assembly-CSharp","ClipNames":{"$type":"System.String[], mscorlib","$values":["Idle/Unarmed/climb-ladder-idle"]},"ID":"-011732ea-2519-440a-8caf-9e059ead452f","componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":"Climb Ladder Idle","ID":"4aa2507b-2677-4b24-a2b9-17c0b8a1fada","isActive":false},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"89e799ef-7c81-4095-ad16-2f548adabdf6","isActive":false}
+]},"ToolName":"Climb Ladder Idle","AuthorName":"","dataVersion":16},
+{"$type":"EndlessAdv.AuthDatas.Model3DAnimationData, Assembly-CSharp","ClipNames":{"$type":"System.String[], mscorlib","$values":["Movement/Unarmed/climb-ladder-up"]},"ID":"-dc756e23-6d8e-4a47-9cb4-46c32e54522e","componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":"Climb Ladder Up","ID":"d8f19d25-f3bb-4f31-80c4-795cdc88eac1","isActive":false},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"d05fc5e5-8cd1-4067-a5a5-508d843c6162","isActive":false}
+]},"ToolName":"Climb Ladder Up","AuthorName":"","dataVersion":16},
+{"$type":"EndlessAdv.AuthDatas.Model3DAnimationData, Assembly-CSharp","ClipNames":{"$type":"System.String[], mscorlib","$values":["Movement/Unarmed/climb-ladder-down"]},"ID":"-8588f354-bcbe-45a3-adfe-eab1db92ec33","componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":"Climb Ladder Down","ID":"0e7e6f1a-0ada-46a0-8728-da31898c3f0f","isActive":false},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"a37d6bd1-2f11-4128-9c83-7c7e0a7e5642","isActive":false}
+]},"ToolName":"Climb Ladder Down","AuthorName":"","dataVersion":16},
+{"$type":"EndlessAdv.AuthDatas.Model3DAnimationData, Assembly-CSharp","ClipNames":{"$type":"System.String[], mscorlib","$values":["Movement/Unarmed/jog-inplace"]},"ID":"-d5037ec2-7417-4afc-aa2b-73d2548d15cf","componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":"Walk (Explore Mode)","ID":"9f3b3260-bf84-4182-be80-1628a5995799","isActive":false},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"ab4e37c5-9cf1-4814-830f-e21d0fb8a06b","isActive":false}
+]},"ToolName":"Walk (Explore Mode)","AuthorName":"","dataVersion":16},
+{"$type":"EndlessAdv.AuthDatas.Model3DAnimationData, Assembly-CSharp","ClipNames":{"$type":"System.String[], mscorlib","$values":["Movement/1H and Shield/Protector_Run_Sprint"]},"ID":"-e33cc237-c026-4f3a-b2c0-23bed75b0e8b","componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":"Walk (Combat Mode)","ID":"fb7a55c0-71b1-406a-941f-7ac2a6d2afb7","isActive":false},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"3eeaae86-152e-48a5-a70a-0492a6aef428","isActive":false}
+]},"ToolName":"Walk (Combat Mode)","AuthorName":"","dataVersion":16},
+{"$type":"EndlessAdv.AuthDatas.Model3DAnimationData, Assembly-CSharp","ClipNames":{"$type":"System.String[], mscorlib","$values":["Dialogue/Casual/Talking_Casual_HandGesture01"]},"ID":"-dc04cf01-d709-40b0-884e-12934ae563ca","componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":"Speaking (Explore Mode)","ID":"ef3e398f-28ee-4a40-b0fc-2299827b079e","isActive":false},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"ed7ecdd7-e7a7-4d72-80ad-56f03dad5881","isActive":false}
+]},"ToolName":"Speaking (Explore Mode)","AuthorName":"","dataVersion":16},
+{"$type":"EndlessAdv.AuthDatas.Model3DAnimationData, Assembly-CSharp","ClipNames":{"$type":"System.String[], mscorlib","$values":["Dialogue/Tough/Talking_ToughGuy_HandGesture13"]},"ID":"-bd327ac1-200f-46a2-a4f8-8e8b32d8cc68","componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":"Speaking (Combat Mode)","ID":"c28ceea9-4dff-4902-a53a-5d20b9d200ec","isActive":false},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"8d90da18-985c-432d-b71e-f14924cfcd84","isActive":false}
+]},"ToolName":"Speaking (Combat Mode)","AuthorName":"","dataVersion":16},
+{"$type":"EndlessAdv.AuthDatas.Model3DAnimationData, Assembly-CSharp","ClipNames":{"$type":"System.String[], mscorlib","$values":["Skills/1H and Shield/Protector_Attack01_Inplace"]},"ID":"-c9578301-48f7-41fc-86e6-b3986d1b3278","componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":"Attack","ID":"55838a6b-689c-4e0e-b773-94ed12e085b7","isActive":false},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"b17dbdd7-cd39-49e9-a428-a011f727e15c","isActive":false}
+]},"ToolName":"Attack","AuthorName":"","dataVersion":16},
+{"$type":"EndlessAdv.AuthDatas.Model3DAnimationData, Assembly-CSharp","ClipNames":{"$type":"System.String[], mscorlib","$values":["Jump/1H and Shield/Protector_Jump_Start"]},"ID":"-e0276cbc-1956-46db-9c99-ce2e94a6ded4","componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":"Jump: Start","ID":"8829fbb3-e90c-48e6-be15-ddcb4d84d3d4","isActive":false},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"bb16e5a8-ae7c-4f6d-8a34-413007619d50","isActive":false}
+]},"ToolName":"Jump: Start","AuthorName":"","dataVersion":16},
+{"$type":"EndlessAdv.AuthDatas.Model3DAnimationData, Assembly-CSharp","ClipNames":{"$type":"System.String[], mscorlib","$values":["Jump/1H and Shield/Protector_Jump_Loop"]},"ID":"-b0a11a54-f12c-4b5f-99d8-f710564bc02c","componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":"Jump: Loop","ID":"b3773b63-ffeb-47d1-8d73-82919f0514df","isActive":false},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"89b65f12-167e-4960-a29b-5992a53a4ef5","isActive":false}
+]},"ToolName":"Jump: Loop","AuthorName":"","dataVersion":16},
+{"$type":"EndlessAdv.AuthDatas.Model3DAnimationData, Assembly-CSharp","ClipNames":{"$type":"System.String[], mscorlib","$values":["Jump/1H and Shield/Protector_Jump_End"]},"ID":"-b901d81b-3eca-4d4a-bd34-bb7636e5765b","componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":"Jump: Land","ID":"ed508068-48f0-4f4e-9423-c79331edd693","isActive":false},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"8ad99826-ae06-438f-aaae-02fc6009d875","isActive":false}
+]},"ToolName":"Jump: Land","AuthorName":"","dataVersion":16},
+{"$type":"EndlessAdv.AuthDatas.Model3DAnimationData, Assembly-CSharp","ClipNames":{"$type":"System.String[], mscorlib","$values":["Jump/1H and Shield/Protector_Jump_Loop"]},"ID":"-cc69d44a-bbc5-4168-b7a0-32813679ab17","componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":"Uncontrolled Fall: Loop","ID":"97d2ce8c-d387-4d4e-bec8-04d32c460551","isActive":false},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"983922c6-0d84-4b1b-9ea8-c38a46a4ab0c","isActive":false}
+]},"ToolName":"Uncontrolled Fall: Loop","AuthorName":"","dataVersion":16},
+{"$type":"EndlessAdv.AuthDatas.Model3DAnimationData, Assembly-CSharp","ClipNames":{"$type":"System.String[], mscorlib","$values":["Jump/1H and Shield/Protector_Jump_End"]},"ID":"-c47d3e35-e194-421d-b9c8-084a979e3626","componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":"Uncontrolled Fall: Land","ID":"f94cb1ba-b1b8-461f-9012-eafe1c8acc63","isActive":false},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"2fc583ef-a2fe-4495-905e-c0f7c9fe3647","isActive":false}
+]},"ToolName":"Uncontrolled Fall: Land","AuthorName":"","dataVersion":16},
+{"$type":"EndlessAdv.AuthDatas.Model3DAnimationData, Assembly-CSharp","ClipNames":{"$type":"System.String[], mscorlib","$values":["Activations/General/Activate_Wall_ButtonPush"]},"ID":"-ab5a1796-c340-4a1c-97d5-57a4dfb87509","componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":"Prop Interact (Explore Mode)","ID":"92780a15-353b-4b66-af16-73c0aa7ba374","isActive":false},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"023e4d33-dd70-47bc-9ba1-cf0a54bd6a0a","isActive":false}
+]},"ToolName":"Prop Interact (Explore Mode)","AuthorName":"","dataVersion":16},
+{"$type":"EndlessAdv.AuthDatas.Model3DAnimationData, Assembly-CSharp","ClipNames":{"$type":"System.String[], mscorlib","$values":["Activations/General/Activate_Wall_ButtonPush"]},"ID":"-725341f8-7910-4b06-8fb9-544f6b7ffa02","componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":"Prop Interact (Combat Mode)","ID":"06487ef8-c696-4339-b8a5-fbb40f351362","isActive":false},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"0fd7bc2e-abe6-44b3-b62b-9da0314a5785","isActive":false}
+]},"ToolName":"Prop Interact (Combat Mode)","AuthorName":"","dataVersion":16},
+{"$type":"EndlessAdv.AuthDatas.Model3DAnimationData, Assembly-CSharp","ClipNames":{"$type":"System.String[], mscorlib","$values":["Hit/1H and Shield/Protector_Defense1_Hit_Inplace"]},"ID":"-2fa38ede-1c56-4b8a-9a6b-df03bb6aa5e8","componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":"Hit: Small","ID":"e5e8bce5-7bd8-4ad4-b230-974d6e54b370","isActive":false},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"5046a8d7-0d7e-4f8c-8dd9-aaa977786b70","isActive":false}
+]},"ToolName":"Hit: Small","AuthorName":"","dataVersion":16},
+{"$type":"EndlessAdv.AuthDatas.Model3DAnimationData, Assembly-CSharp","ClipNames":{"$type":"System.String[], mscorlib","$values":["Hit/1H and Shield/Protector_Hit_F_Inplace"]},"ID":"-6465aa71-ee94-4622-b51d-36dd48ba8be3","componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":"Hit: Large","ID":"cdd57e43-953c-4c55-a63f-39ec6fa6376b","isActive":false},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"6c16d583-7495-4692-80e5-dce4cf9a84da","isActive":false}
+]},"ToolName":"Hit: Large","AuthorName":"","dataVersion":16},
+{"$type":"EndlessAdv.AuthDatas.Model3DAnimationData, Assembly-CSharp","ClipNames":{"$type":"System.String[], mscorlib","$values":["Death/1H and Shield/Protector_Die_1_Inplace"]},"ID":"-c9ffd160-f507-41a6-90af-cc942077702f","componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":"Death","ID":"ad292bc6-e4a5-49cf-962f-d0570d870f79","isActive":false},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"6797f55f-7d4c-4535-b982-81911db7f887","isActive":false}
+]},"ToolName":"Death","AuthorName":"","dataVersion":16}
+]},"Scale":100,"Outline":false,"overrideShaderStyle":false,"overridenAlbedoImg":null,"Saturation":1.0,"Brightness":0.7,"outlineOverride":{"$type":"EndlessAdv.AuthDatas.CharacterOutlineThemeData, Assembly-CSharp","ColorOutline":{"$type":"SerializableColor, Assembly-CSharp","R":0.0,"G":0.0,"B":0.0,"A":1.0},"Width":0.18},"styleOverride":{"$type":"EndlessAdv.AuthDatas.CharacterShaderStyleThemeData, Assembly-CSharp","styleType":0,"opacity":1.0,"shadingRange":1.0,"ShadingRotation":0.0},"ID":"-8754dcbf-f17a-45c7-9e30-464cb16d422f","componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":null,"ID":"03e43e00-89f8-47d7-a0a6-e2ab33ad9e58","isActive":false},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"94ad03a6-bbbc-4166-a8f7-faac3e621595","isActive":false}
+]},"ToolName":"","AuthorName":"","dataVersion":16},"Height":1.7,"scale":100.0,"ID":"CharStDt-689429d4-c40d-4274-9bdc-df37ad14c527","componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":"State 3","ID":"b7ecf7e7-dfb3-48fb-8fa5-a94ae933ad99","isActive":false},
+{"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":"","ID":"76a3f004-4c19-41a0-bab3-15007ab0b039","isActive":false},
+{"$type":"EAOBJCharacterImagesTypesHolderComponentData, Assembly-CSharp","imageTypesInstances":{"$type":"System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[CharacterImageTypeInstanceData, Assembly-CSharp]], mscorlib","00000000-CharImgT-00000000-0000-0000-0000-000000000000":{"$type":"CharacterImageTypeInstanceData, Assembly-CSharp","spritePath":"","characterImageTypeID":"00000000-CharImgT-00000000-0000-0000-0000-000000000000"}},"ID":"0e16fb0d-ffe3-4103-a192-f79521749d2f","isActive":false}
+]},"ToolName":"State 3","AuthorName":"","dataVersion":16}
 ]},"ID":"bc0bf76a-5f39-4033-b153-5508559cb9e0","isActive":false},
 {"$type":"EAOBJInitialTagsComponentData, Assembly-CSharp","initialTagsDatas":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.AuthDatas.StartingTagData, Assembly-CSharp]], mscorlib","$values":[{"$type":"EndlessAdv.AuthDatas.StartingTagData, Assembly-CSharp","StartValue":"75","ReferenceTagTargetStatement":{"$type":"EndlessAdv.PickTargetByLogicStatement, Assembly-CSharp","logicStatementDataVersion":4,"TargetRow":{"$type":"EndlessAdv.LogicRow, Assembly-CSharp","LogicItems":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.LogicItem, Assembly-CSharp]], mscorlib","$values":[]}},"ParameterRows":{"$type":"EndlessAdv.LogicRow[], Assembly-CSharp","$values":[]},"isEnabled":true,"InfoString":"Target = ","OnLabelChanged":null},"TagID":"ValueTag-a303d7ed-f506-4e08-84e1-3e32f99cea2d","IsAnArray":false,"IsReferenceTag":false,"StartArrayValues":{"$type":"System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[System.String, mscorlib]], mscorlib"},"StartArrayStatements":{"$type":"System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[EndlessAdv.PickTargetByLogicStatement, Assembly-CSharp]], mscorlib"},"Id":"ValueTag-a303d7ed-f506-4e08-84e1-3e32f99cea2d"}]},"ID":"fd136a87-8f6f-49f6-a44c-0ad09d0b2c4d","isActive":false}
 ]},

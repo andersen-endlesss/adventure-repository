@@ -1,0 +1,15 @@
+{
+"$type":"NewContentManager+ManifestEntry, Assembly-CSharp",
+"ID":"294a60b1-ebdf-4914-a096-4073f04c8481",
+"Name":"PackedFiles_Adventure_Assets_FBX_Items_Torches_.zip",
+"PlayfabID":null,
+"LocalPath":"Adventure Assets/FBX/Items/Torches/",
+"LastChangedTime":"2026-11-17T02:32:11.058856Z",
+"Type":"PackedItems",
+"URL":null,
+"FileSize":0,
+"SubItems":{"$type":"System.Collections.Generic.List`1[[NewContentManager+SubManifestEntry, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"7a792831-6862-4b5c-8221-719cc43dd20d","FileName":"torch2.fbx","FileSize":51616,"Type":7,"DateTime":"2026-11-09T19:16:45.0559968Z"},
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"55a3eb83-6646-43a3-a820-dc4174f9ec3c","FileName":"torch1.fbx","FileSize":84736,"Type":7,"DateTime":"2026-11-09T19:15:41.2885038Z"}
+]}
+}

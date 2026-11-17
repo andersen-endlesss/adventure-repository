@@ -2,7 +2,7 @@
 "$type":"EndlessAdv.AuthDatas.EAPersistentInterfaceData, Assembly-CSharp",
 "ParentGroupID":null,
 "NodePlacementParents":{"$type":"System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib","$values":["Adventure"]},
-"NodePlacements":{"$type":"System.Collections.Generic.List`1[[SerializableVector2, Assembly-CSharp]], mscorlib","$values":[{"$type":"SerializableVector2, Assembly-CSharp","x":-290.0,"y":0.0}]},
+"NodePlacements":{"$type":"System.Collections.Generic.List`1[[SerializableVector2, Assembly-CSharp]], mscorlib","$values":[{"$type":"SerializableVector2, Assembly-CSharp","x":280.0,"y":-20.0}]},
 "TextLogic":{"$type":"System.Collections.Generic.Dictionary`2[[System.String, mscorlib],[EndlessAdv.AuthDatas.TextLogicData, Assembly-CSharp]], mscorlib"},
 "ID":"PersisUI-973188eb-ff82-42c2-8407-4b067bc81cc1",
 "componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
