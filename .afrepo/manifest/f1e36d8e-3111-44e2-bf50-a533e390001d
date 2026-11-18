@@ -4,9 +4,18 @@
 "Name":"PackedFiles_Adventure_Assets_FBX_Characters_.zip",
 "PlayfabID":null,
 "LocalPath":"Adventure Assets/FBX/Characters/",
-"LastChangedTime":"2026-11-09T19:15:13.26669Z",
+"LastChangedTime":"2026-11-18T03:53:51.443798Z",
 "Type":"PackedItems",
 "URL":null,
 "FileSize":0,
-"SubItems":{"$type":"System.Collections.Generic.List`1[[NewContentManager+SubManifestEntry, Assembly-CSharp]], mscorlib","$values":[]}
+"SubItems":{"$type":"System.Collections.Generic.List`1[[NewContentManager+SubManifestEntry, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"15bdbb9f-91dc-4198-b22b-be285d8fa958","FileName":"Father_Antonio_Default.fbx","FileSize":10760140,"Type":7,"DateTime":"2026-10-20T21:05:36.8632171Z"},
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"9932196e-f8e8-4157-a042-47ba67757db1","FileName":"Carpenter.fbx","FileSize":5043132,"Type":7,"DateTime":"2026-11-18T00:59:02.6539239Z"},
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"bc29cece-db42-4cfe-adf1-00582f71317e","FileName":"Cannonnier.fbx","FileSize":4614060,"Type":7,"DateTime":"2026-11-18T00:59:47.60095Z"},
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"5ab0c6ad-c64d-47c0-95ca-210825e64d9a","FileName":"Bard.fbx","FileSize":3018092,"Type":7,"DateTime":"2026-11-18T03:50:51.5944459Z"},
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"c02f13b4-81e4-4842-bd42-0bbb9a2f72a5","FileName":"Cook.fbx","FileSize":4905180,"Type":7,"DateTime":"2026-11-18T03:53:51.377413Z"},
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"4cee789a-a46f-4ed5-88d0-5f86922aac18","FileName":"Harpooner.fbx","FileSize":5403260,"Type":7,"DateTime":"2026-11-18T03:53:51.3899528Z"},
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"32d312d0-ff50-40d0-b1d2-7584e32070c8","FileName":"Parida.fbx","FileSize":3543644,"Type":7,"DateTime":"2026-11-18T03:53:51.398842Z"},
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"556adb77-7957-414a-84f2-f3dde87e6d85","FileName":"Scullion.fbx","FileSize":10207420,"Type":7,"DateTime":"2026-11-18T03:53:51.4078578Z"}
+]}
 }
