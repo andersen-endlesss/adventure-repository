@@ -1,0 +1,24 @@
+{
+"$type":"NewContentManager+ManifestEntry, Assembly-CSharp",
+"ID":"57d01dd4-1fc6-4e7b-ac9a-08065188e646",
+"Name":"PackedFiles_AnimationLibrary_.zip",
+"PlayfabID":null,
+"LocalPath":"AnimationLibrary/",
+"LastChangedTime":"2026-11-18T00:59:02.7017049Z",
+"Type":"PackedItems",
+"URL":null,
+"FileSize":0,
+"SubItems":{"$type":"System.Collections.Generic.List`1[[NewContentManager+SubManifestEntry, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"23646886-2947-424e-b768-0f4e48871f1f","FileName":"Construction_1.afclip","FileSize":9350,"Type":0,"DateTime":"2026-11-18T00:59:02.6679461Z"},
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"dadb2bae-606b-46cb-9739-7e7741138ae5","FileName":"Construction_2.afclip","FileSize":10225,"Type":0,"DateTime":"2026-11-18T00:59:02.672544Z"},
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"8b7b3b4c-5ae7-41c0-b76a-e38a0bf5d319","FileName":"Cannon_fire.afclip","FileSize":38108,"Type":0,"DateTime":"2026-11-18T00:59:47.6092419Z"},
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"a0ca3afa-3e3a-4429-930f-3d1a99febd5d","FileName":"Idle.afclip","FileSize":119186,"Type":0,"DateTime":"2026-11-18T00:59:47.6153879Z"},
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"4570233a-24ad-4863-9a15-3a25f4d2661d","FileName":"Reload.afclip","FileSize":65197,"Type":0,"DateTime":"2026-11-18T00:59:47.6204268Z"},
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"9e799bc8-28b3-46d3-9da5-b847ed2f34f9","FileName":"Cassanetes.afclip","FileSize":40382,"Type":0,"DateTime":"2026-11-18T03:50:51.606662Z"},
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"051b79f6-0438-47a4-897a-faa370578873","FileName":"Cooking_pot.afclip","FileSize":33725,"Type":0,"DateTime":"2026-11-18T03:53:51.417474Z"},
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"8c237238-523a-421d-b752-b23505c3e866","FileName":"Idle.afclip","FileSize":19916,"Type":0,"DateTime":"2026-11-18T03:53:51.419034Z"},
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"7ac6ad0f-299c-4414-a2c1-0db99919238d","FileName":"Shooting_1.afclip","FileSize":24808,"Type":0,"DateTime":"2026-11-18T03:53:51.421014Z"},
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"f5fc85c4-0a0f-4067-97c4-5c0b90c209af","FileName":"Idle.afclip","FileSize":59352,"Type":0,"DateTime":"2026-11-18T03:53:51.422894Z"},
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"efd792d5-d5c8-45cb-b295-eff26f9a220d","FileName":"Cooking_pot.afclip","FileSize":33860,"Type":0,"DateTime":"2026-11-18T03:53:51.4250409Z"}
+]}
+}
