@@ -1,0 +1,16 @@
+{
+"$type":"NewContentManager+ManifestEntry, Assembly-CSharp",
+"ID":"8461f92f-2191-4aa3-a23c-12a91d346a56",
+"Name":"PackedFiles_Adventure_Assets_FBX_Ships_.zip",
+"PlayfabID":null,
+"LocalPath":"Adventure Assets/FBX/Ships/",
+"LastChangedTime":"2026-11-18T16:04:03.4869999Z",
+"Type":"PackedItems",
+"URL":null,
+"FileSize":0,
+"SubItems":{"$type":"System.Collections.Generic.List`1[[NewContentManager+SubManifestEntry, Assembly-CSharp]], mscorlib","$values":[
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"bc96e123-f533-4fe9-b515-369fa2001914","FileName":"Dutch_Clockheart.fbx","FileSize":9054972,"Type":7,"DateTime":"2026-11-18T15:57:30.94Z"},
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"139f4301-09f9-45f4-81d9-c0edc3784414","FileName":"Medium_El_Toro.fbx","FileSize":8868764,"Type":7,"DateTime":"2026-11-18T15:59:08.782Z"},
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"e0fcf78c-b60c-4cfe-b262-cb43cf590ef9","FileName":"Medium_Octopus.fbx","FileSize":7890572,"Type":7,"DateTime":"2026-11-18T16:04:03.4289999Z"}
+]}
+}

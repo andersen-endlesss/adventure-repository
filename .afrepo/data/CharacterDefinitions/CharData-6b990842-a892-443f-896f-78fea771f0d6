@@ -12,7 +12,7 @@
 "StartingTags":null,
 "ID":"CharData-6b990842-a892-443f-896f-78fea771f0d6",
 "componentDatas":{"$type":"System.Collections.Generic.List`1[[EAObjComponentData, Assembly-CSharp]], mscorlib","$values":[
-{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":"New Character","ID":"e0732759-a346-4df5-b239-9eef1afd0adc","isActive":false},
+{"$type":"EAOBJNameComponentData, Assembly-CSharp","objName":"Parida","ID":"e0732759-a346-4df5-b239-9eef1afd0adc","isActive":false},
 {"$type":"EAOBJDescriptionComponentData, Assembly-CSharp","description":null,"ID":"72c2c0ec-6973-4913-8179-e484b5af0431","isActive":false},
 {"$type":"EAObjAbilitiesOwnerComponentData, Assembly-CSharp","abilitiesOwnIDs":{"$type":"System.Collections.Generic.List`1[[System.String, mscorlib]], mscorlib","$values":[]},"ID":"1934748a-4eaa-476e-86a8-038a8e6d8e83","isActive":false},
 {"$type":"EAObjFactionConfigsComponentData, Assembly-CSharp","factionType":0,"ID":"0ce62a69-5aa0-4545-a146-f68b23ee49d8","isActive":false},
@@ -113,7 +113,7 @@
 ]},"ID":"42c26ee1-11dd-4b4c-9ed4-2d521caa51fe","isActive":false},
 {"$type":"EAOBJInitialTagsComponentData, Assembly-CSharp","initialTagsDatas":{"$type":"System.Collections.Generic.List`1[[EndlessAdv.AuthDatas.StartingTagData, Assembly-CSharp]], mscorlib","$values":[]},"ID":"5ca8fd8b-2607-420b-8884-72bef56b711f","isActive":false}
 ]},
-"ToolName":"New Character",
+"ToolName":"Parida",
 "AuthorName":"",
 "dataVersion":16
 }

@@ -19,6 +19,23 @@
 {"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"8c237238-523a-421d-b752-b23505c3e866","FileName":"Idle.afclip","FileSize":19916,"Type":0,"DateTime":"2026-11-18T03:53:51.419034Z"},
 {"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"7ac6ad0f-299c-4414-a2c1-0db99919238d","FileName":"Shooting_1.afclip","FileSize":24808,"Type":0,"DateTime":"2026-11-18T03:53:51.421014Z"},
 {"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"f5fc85c4-0a0f-4067-97c4-5c0b90c209af","FileName":"Idle.afclip","FileSize":59352,"Type":0,"DateTime":"2026-11-18T03:53:51.422894Z"},
-{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"efd792d5-d5c8-45cb-b295-eff26f9a220d","FileName":"Cooking_pot.afclip","FileSize":33860,"Type":0,"DateTime":"2026-11-18T03:53:51.4250409Z"}
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"efd792d5-d5c8-45cb-b295-eff26f9a220d","FileName":"Cooking_pot.afclip","FileSize":33860,"Type":0,"DateTime":"2026-11-18T03:53:51.4250409Z"},
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"a31bfebd-4cf4-4f17-a912-aeb44d33aa97","FileName":"Moving_forward.afclip","FileSize":80240,"Type":0,"DateTime":"2026-11-18T15:57:30.9549999Z"},
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"adafdea0-ef88-45e3-8f48-32e705b78224","FileName":"Moving_portside.afclip","FileSize":85700,"Type":0,"DateTime":"2026-11-18T15:57:30.9619998Z"},
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"87e773b5-51b2-4415-9dba-aca6c71aad93","FileName":"Moving_starboard.afclip","FileSize":86273,"Type":0,"DateTime":"2026-11-18T15:57:30.967Z"},
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"b352173f-3f32-419d-848e-324e9422b871","FileName":"No_sail.afclip","FileSize":42731,"Type":0,"DateTime":"2026-11-18T15:57:30.9739999Z"},
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"d615c1c4-e9f7-4a93-894d-a04f4913a3fe","FileName":"No_sail_moving_forward.afclip","FileSize":91632,"Type":0,"DateTime":"2026-11-18T15:57:30.98Z"},
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"72901268-3b41-40e1-b649-1693e4a490c0","FileName":"Start_shoot_left.afclip","FileSize":89579,"Type":0,"DateTime":"2026-11-18T15:57:30.9869999Z"},
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"4b11d104-338d-447a-8dfb-5ac1020683cc","FileName":"Start_shoot_right.afclip","FileSize":89357,"Type":0,"DateTime":"2026-11-18T15:57:30.993Z"},
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"b79fa6c1-2cb6-4ea3-ae47-3f0c99d9d0fd","FileName":"Moving_forward.afclip","FileSize":65881,"Type":0,"DateTime":"2026-11-18T15:59:08.7939999Z"},
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"a21baf21-3ee8-4989-9a2b-8e02dcc011d4","FileName":"Moving_portside.afclip","FileSize":70929,"Type":0,"DateTime":"2026-11-18T15:59:08.7999999Z"},
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"7ec750f1-864e-4b72-be30-121d7640297c","FileName":"Moving_starboard.afclip","FileSize":70338,"Type":0,"DateTime":"2026-11-18T15:59:08.8059999Z"},
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"6a03d48a-fcb7-48d8-9d35-c5fe51c956f2","FileName":"Start_shoot_left.afclip","FileSize":68947,"Type":0,"DateTime":"2026-11-18T15:59:08.8129999Z"},
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"17ba810c-1a86-419c-8c06-9a45f6b58cbe","FileName":"Start_shoot_right.afclip","FileSize":69504,"Type":0,"DateTime":"2026-11-18T15:59:08.818Z"},
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"bcd2eb50-318e-499a-8e2b-c0b2d96934f7","FileName":"Moving_forward.afclip","FileSize":44930,"Type":0,"DateTime":"2026-11-18T16:04:03.4419999Z"},
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"8df63876-6a8b-4459-a0c4-8d475e350dc0","FileName":"Moving_portside.afclip","FileSize":56174,"Type":0,"DateTime":"2026-11-18T16:04:03.4479999Z"},
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"c4e1ca10-30e0-48be-8418-a064181e82cb","FileName":"Moving_starboard.afclip","FileSize":55736,"Type":0,"DateTime":"2026-11-18T16:04:03.453Z"},
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"b17357cc-b8f1-4469-8906-447770572cb1","FileName":"Start_shoot_left.afclip","FileSize":55015,"Type":0,"DateTime":"2026-11-18T16:04:03.4609999Z"},
+{"$type":"NewContentManager+SubManifestEntry, Assembly-CSharp","ID":"084d8ef7-0542-4a77-9cd5-c5b391fb2ae2","FileName":"Start_shoot_right.afclip","FileSize":55498,"Type":0,"DateTime":"2026-11-18T16:04:03.466Z"}
 ]}
 }
